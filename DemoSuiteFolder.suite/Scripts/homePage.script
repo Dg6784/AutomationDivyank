@@ -1,4 +1,5 @@
-﻿//This will launch the browser
+﻿//This will launch the browser ---------------------------------------------------------------------------------------------------------
+
 To LaunchBrowser
 	DoubleClick imageName:"basic-UI/launchBrowser", waitFor:3
 	TypeText "https://rahulshettyacademy.com/practice-project"
@@ -6,3 +7,36 @@ To LaunchBrowser
 	TypeText return
 	Wait 3 Seconds 
 End LaunchBrowser
+
+
+// This will fill contact form ------------------------------------------------------------------------------------------------------------------------------- 
+to fillContactForm
+	Click imageName:"basic-UI/more_textImagew", waitFor:10
+	Click imageName:"basic-UI/contactDropdown", waitFor:10
+	Click imageName:"contactForm/yourNameCform", waitFor:10
+	TypeText "Divyank"
+	Click imageName:"contactForm/mobileCform", waitFor:10
+	TypeText "6386980640"
+	
+	Click imageName:"contactForm/countryCform", waitFor:10
+	TypeText "INDIA"
+	
+	Click imageName:"contactForm/yourEmailCform", waitFor:10
+	TypeText "thatsdg63@gmail.com"
+	
+	Click imageName:"contactForm/selectaSubjectDropdownCform", waitFor:10
+	Click imageName:"contactForm/dropdownSelect", waitFor:10
+	Click imageName:"contactForm/yourMessageCform", waitFor:10
+	TypeText "I want to ask something"
+end fillContactForm
+
+
+
+
+
+
+
+
+
+
+

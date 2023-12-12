@@ -1,20 +1,20 @@
 {
 	"originalcapturelocation": [
-		840,
-		105,
-		107,
-		41
+		385,
+		513,
+		77,
+		25
 	],
-	"lastmodifieddate": 1702302911.5409999,
-	"createddate": 1702302319.9819999,
-	"name": "Login/registerButton",
-	"lastfounddate": 1702402011.931,
-	"ocrcapturestring": "& REGISTER",
+	"lastmodifieddate": 1702403450.8049998,
+	"createddate": 1702402514.6729999,
+	"name": "contactForm/yourEmailCform",
+	"lastfounddate": 1702404066.779,
+	"ocrcapturestring": "Your Email*",
 	"lastfoundlocation": [
-		738,
-		124,
-		107,
-		41
+		394,
+		523,
+		77,
+		25
 	],
 	"testlocationdata": [
 		{
@@ -23,26 +23,26 @@
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[56,31]",
-					"Tolerance": "_62",
+					"HotSpot": "[97,9]",
+					"Tolerance": "_38",
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
 				},
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "signUp/registerButton.png",
-				"connectionname": "192.168.0.55",
+				"name": "contactForm/yourEmailCform.png",
+				"connectionname": "192.168.1.19",
 				"type": 1,
-				"connectionserverid": "192.168.0.55",
+				"connectionserverid": "192.168.1.19",
 				"capturerect": [
-					840,
-					105,
-					107,
-					41
+					385,
+					513,
+					77,
+					25
 				],
 				"connectiontype": "RDP",
-				"capturedocrtext": "& REGISTER"
+				"capturedocrtext": "Your Email*"
 			},
 		{
 				"connectionportnum": 3389,
@@ -50,26 +50,26 @@
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[56,31]",
-					"Tolerance": 67,
+					"HotSpot": "[97,9]",
+					"Tolerance": 53,
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
 				},
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "signUp/registerButton.png",
-				"connectionname": "192.168.0.55",
+				"name": "contactForm/yourEmailCform.png",
+				"connectionname": "192.168.1.19",
 				"type": 1,
-				"connectionserverid": "192.168.0.55",
+				"connectionserverid": "192.168.1.19",
 				"capturerect": [
-					840,
-					105,
-					107,
-					41
+					385,
+					513,
+					77,
+					25
 				],
 				"connectiontype": "RDP",
-				"capturedocrtext": "& REGISTER"
+				"capturedocrtext": "Your Email*"
 			}
 	]
 }

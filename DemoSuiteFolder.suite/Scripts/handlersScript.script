@@ -1,8 +1,10 @@
-﻿to greetTheUser
+﻿//These  handlers are created for practice
+
+to greetTheUser
 	put "Welcome to SenseTalk. Happy scripting!"
 end greetTheUser 
 
-
+-------------------------------------------------------------------------------------------------------------------------
 To LaunchBrowser
 	DoubleClick imageName:"basic-UI/launchBrowser", waitFor:3
 	TypeText "https://rahulshettyacademy.com/practice-project"
@@ -10,6 +12,7 @@ To LaunchBrowser
 	TypeText return
 End LaunchBrowser
 
+--------------------------------------------------------------------------------------------------------------------
 to greetTheUser1
 	If ImageFound("basic-UI/launchBrowser") then
 		Log "Success"
@@ -19,15 +22,21 @@ to greetTheUser1
 	
 end greetTheUser1
 
+
+----------------------------------------------------------------------------------------------------------------
+
 to handle increaseSize given amount
 	if amount is empty then add 1 to my size else add amount to my size
 end increaseSize
 
-
+------------------------------------------------------------------------------------------------------------------------
 on addToTotal newAmount
 	add newAmount to global total
 	log global total
 end addToTotal
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 function quotient of dividend, divisor
 	if divisor is zero then return zero
@@ -35,12 +44,6 @@ function quotient of dividend, divisor
 end quotient
 
 
-castSpell {spellName:"sleep", potency:"deep", duration:15 minutes}
 
-to castSpell spellName, duration, potency 
-	Put duration and potency into Cauldron
-	Stir Cauldron
-	Log "Alakazam!: " & spellName 
-end castSpell
 
 

@@ -1,20 +1,20 @@
 {
 	"originalcapturelocation": [
-		509,
-		466,
-		64,
-		27
+		167,
+		597,
+		78,
+		13
 	],
-	"lastmodifieddate": 1702314014.52,
-	"createddate": 1702314014.52,
-	"name": "signUp/emailInput1",
-	"lastfounddate": 1702402515.888,
-	"ocrcapturestring": "Your Email*",
+	"lastmodifieddate": 1702403645.2519999,
+	"createddate": 1702403645.2519999,
+	"name": "contactForm/dropdownSelect",
+	"lastfounddate": 1702404069.3410001,
+	"ocrcapturestring": "Online Courses",
 	"lastfoundlocation": [
-		396,
-		516,
-		64,
-		27
+		177,
+		607,
+		78,
+		13
 	],
 	"testlocationdata": [
 		{
@@ -23,26 +23,26 @@
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[90,11]",
-					"Tolerance": "_38",
+					"HotSpot": "[-4,11]",
+					"Tolerance": "_45",
 					"Discrepancy": "_0",
-					"SearchType": "Smoothed for Text"
+					"SearchType": "Tolerant of Background"
 				},
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "signUp/emailInput1.png",
+				"name": "contactForm/dropdownSelect.png",
 				"connectionname": "192.168.1.19",
 				"type": 1,
 				"connectionserverid": "192.168.1.19",
 				"capturerect": [
-					509,
-					466,
-					64,
-					27
+					167,
+					597,
+					78,
+					13
 				],
 				"connectiontype": "RDP",
-				"capturedocrtext": "Your Email*"
+				"capturedocrtext": "Online Courses"
 			}
 	]
 }

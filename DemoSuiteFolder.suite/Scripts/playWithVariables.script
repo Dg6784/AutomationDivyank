@@ -1,4 +1,6 @@
-﻿put Bonjour into greeting
+﻿//this will play with variables
+
+put Bonjour into greeting
 put Bonjour into greeting2
 log greeting
 log greeting2

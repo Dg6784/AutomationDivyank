@@ -1,4 +1,4 @@
-﻿
+﻿//This wil Navigate different options
 
 to navigateAboutOption
 	DoubleClick imageName:"basic-UI/launchBrowser", waitFor:3

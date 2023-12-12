@@ -48,3 +48,5 @@
 2023-12-12 11:02:45.893 +0530,"Failure",0:00:45,1,0,1,"20231212_110245.893/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Login/emailField""",0
 2023-12-12 11:03:49.455 +0530,"Failure",0:00:45,1,0,1,"20231212_110349.455/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Login/emailField""",0
 2023-12-12 11:04:49.368 +0530,"Success",0:00:07,0,0,0,"20231212_110449.368/LogFile.txt","","",1
+2023-12-12 22:43:57.796 +0530,"Failure",0:00:00,1,0,0,"20231212_224357.796/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'launchbrowser'",0
+2023-12-12 22:44:16.350 +0530,"Failure",0:00:00,1,0,0,"20231212_224416.350/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'launchbrowser'",0

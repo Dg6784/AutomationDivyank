@@ -1,15 +1,25 @@
-﻿//This will run Script 
+﻿//This will run Script ------------------------------------------------------
 
 homepage.LaunchBrowser
-signUpPage.registerUser
+homepage.fillContactForm
+//loginPage.loginPage
+// signuppage.registerUser
 
-//Try to delete cookies
 
-(*set driverName to WebDriver(host:"192.168.0.96", browser: "msedge", name: "192.168.0.96")
-log driverName*)
-(*
+//Trying to delete cookies
+
+set driverName to WebDriver(host:"192.168.0.96", browser: "msedge", name: "192.168.0.96")
+log driverName
 set the driverNmae's cookies to empty
-*)
+
+
+
+
+
+
+
+
+
 
 (*
 loginpage.loginWithGoogle

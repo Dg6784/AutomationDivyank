@@ -9,7 +9,7 @@ to joinNowToPractice
 	Click imageName:"Login/submitClick", waitFor:3
 end joinNowToPractice
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 // This will use to register user
 To registerUser
