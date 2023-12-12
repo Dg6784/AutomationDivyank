@@ -1,9 +1,0 @@
-﻿2023-12-11 19:24:54.784 +0530	START		Running signUp.script
-2023-12-11 19:24:55.044 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	2	on_launchbrowser	dashboardPage.script
-2023-12-11 19:24:56.358 +0530	typetext		https://rahulshettyacademy.com/practice-project	3	on_launchbrowser	dashboardPage.script
-2023-12-11 19:24:59.385 +0530	typetext		[return]	5	on_launchbrowser	dashboardPage.script
-2023-12-11 19:25:11.718 +0530	click	signUp/registerButton	at (824, 221)	3	on_signup	signUp.script
-2023-12-11 19:25:12.524 +0530	click	signUp/yourNameInputField	at (640, 487)	4	on_signup	signUp.script
-2023-12-11 19:25:13.345 +0530	click	signUp/yourEmailInputFiled	at (636, 540)	5	on_signup	signUp.script
-2023-12-11 19:25:13.370 +0530	EndTestCase		(Duration:"18.576", Errors:"0", Exceptions:"0", StartTime:"2023-12-11 19:24:54 +0530", Successes:"1", TestCase:"signUp.script", Warnings:"0")
-2023-12-11 19:25:13.467 +0530	SUCCESS		Execution Time 0:00:18 signUp.script

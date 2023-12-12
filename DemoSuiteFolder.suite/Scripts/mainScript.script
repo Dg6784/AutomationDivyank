@@ -1,0 +1,22 @@
+﻿//This will run Script 
+
+homepage.LaunchBrowser
+signUpPage.registerUser
+
+//Try to delete cookies
+
+(*set driverName to WebDriver(host:"192.168.0.96", browser: "msedge", name: "192.168.0.96")
+log driverName*)
+(*
+set the driverNmae's cookies to empty
+*)
+
+(*
+loginpage.loginWithGoogle
+*)
+(*basicUI.navigateAboutOption
+
+loginPage.loginPage*)
+(*
+signUp.joinNowToPractice
+*)

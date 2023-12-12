@@ -1,6 +1,0 @@
-﻿2023-12-11 22:35:53.088 +0530	START		Running signUp.script
-2023-12-11 22:35:53.322 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	2	on_launchbrowser	dashboardPage.script
-2023-12-11 22:35:54.634 +0530	typetext		https://rahulshettyacademy.com/practice-project	3	on_launchbrowser	dashboardPage.script
-2023-12-11 22:35:57.661 +0530	typetext		[return]	5	on_launchbrowser	dashboardPage.script
-2023-12-11 22:36:00.682 +0530	EndTestCase		(Duration:"7.589", Errors:"0", Exceptions:"0", StartTime:"2023-12-11 22:35:53 +0530", Successes:"1", TestCase:"signUp.script", Warnings:"0")
-2023-12-11 22:36:00.762 +0530	SUCCESS		Execution Time 0:00:07 signUp.script
