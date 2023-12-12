@@ -1,0 +1,81 @@
+{
+	"entries": [
+		{
+				"message": "Running basic_UI.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 15:36:41.015 +0530"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:36:41.239 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:36:42.341 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (972, 58)",
+				"image": "basic-UI/maxmize_Image",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:36:43.751 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (289, 53)",
+				"image": "basic-UI/search_Field.png",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:36:45.057 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "basic_UI.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:36:48.081 +0530",
+				"message": "[return]",
+				"scriptName": "basic_UI.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:37:00.215 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (408, 146)",
+				"image": "basic-UI/home_textImage",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:37:12.068 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (450, 150)",
+				"image": "basic-UI/courses_textImage",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"81.398\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-07 15:36:41 +0530\", Successes:\"0\", TestCase:\"basic_UI.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 15:38:02.417 +0530"
+			},
+		{
+				"message": "Execution Time 0:01:21 basic_UI.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-07 15:38:02.431 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 15:36:41.019 +0530"
+}

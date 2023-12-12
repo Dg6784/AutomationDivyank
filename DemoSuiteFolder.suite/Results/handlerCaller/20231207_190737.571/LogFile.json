@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running handlerCaller.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 19:07:37.578 +0530"
+			},
+		{
+				"message": "(Duration:\"0.074\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-07 19:07:37 +0530\", Successes:\"0\", TestCase:\"handlerCaller.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 19:07:37.657 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "BadValue: Bad value for Object expression.  Looking for an object or script identifier, got 'handlers_Script'. -- Execution Time 0:00:00 handlerCaller.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-07 19:07:37.826 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 19:07:37.582 +0530"
+}

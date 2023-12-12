@@ -1,0 +1,10 @@
+﻿2023-12-09 00:01:19.046 +0530	START		Running handlerCaller.script
+2023-12-09 00:01:19.370 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	2	on_navigateaboutoption	basicUI.script
+2023-12-09 00:01:20.677 +0530	typetext		https://rahulshettyacademy.com/practice-project	4	on_navigateaboutoption	basicUI.script
+2023-12-09 00:01:23.700 +0530	typetext		[return]	6	on_navigateaboutoption	basicUI.script
+2023-12-09 00:01:25.899 +0530	click	basic-UI/home_textImage	at (297, 228)	7	on_navigateaboutoption	basicUI.script
+2023-12-09 00:01:26.757 +0530	click	basic-UI/courses_textImage	at (347, 232)	8	on_navigateaboutoption	basicUI.script
+2023-12-09 00:01:28.361 +0530	click	basic-UI/more_textImagew	at (845, 230)	9	on_navigateaboutoption	basicUI.script
+2023-12-09 00:01:29.166 +0530	click	basic-UI/AboutUsOption	at (858, 271)	10	on_navigateaboutoption	basicUI.script
+2023-12-09 00:01:29.257 +0530	EndTestCase		(Duration:"10.206", Errors:"0", Exceptions:"0", StartTime:"2023-12-09 00:01:19 +0530", Successes:"1", TestCase:"handlerCaller.script", Warnings:"0")
+2023-12-09 00:01:29.326 +0530	SUCCESS		Execution Time 0:00:10 handlerCaller.script

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="loginPage_script" package="Demo1.suite" timestamp="2023-12-11 18:34:51.737 +0530"
+ tests="1"  failures="0" errors="0" time="97.363000">
+  <properties>
+   <property name="RunDate" value="2023-12-11 18:34:51.737 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="loginPage.script" assertions="1" status="error"  time="97.35">
+    <error type="Exception" message="No Image Found On Screen: &quot;Login/eyeShowPassword&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

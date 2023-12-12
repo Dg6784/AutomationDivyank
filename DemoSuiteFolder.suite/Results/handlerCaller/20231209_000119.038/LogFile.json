@@ -1,0 +1,81 @@
+{
+	"entries": [
+		{
+				"message": "Running handlerCaller.script",
+				"identifier": "START",
+				"timestamp": "2023-12-09 00:01:19.046 +0530"
+			},
+		{
+				"handlerName": "on_navigateaboutoption",
+				"timestamp": "2023-12-09 00:01:19.370 +0530",
+				"scriptName": "basicUI.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_navigateaboutoption",
+				"timestamp": "2023-12-09 00:01:20.677 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "basicUI.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_navigateaboutoption",
+				"timestamp": "2023-12-09 00:01:23.700 +0530",
+				"message": "[return]",
+				"scriptName": "basicUI.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_navigateaboutoption",
+				"timestamp": "2023-12-09 00:01:25.899 +0530",
+				"scriptName": "basicUI.script",
+				"message": "at (297, 228)",
+				"image": "basic-UI/home_textImage",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_navigateaboutoption",
+				"timestamp": "2023-12-09 00:01:26.757 +0530",
+				"scriptName": "basicUI.script",
+				"message": "at (347, 232)",
+				"image": "basic-UI/courses_textImage",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_navigateaboutoption",
+				"timestamp": "2023-12-09 00:01:28.361 +0530",
+				"scriptName": "basicUI.script",
+				"message": "at (845, 230)",
+				"image": "basic-UI/more_textImagew",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_navigateaboutoption",
+				"timestamp": "2023-12-09 00:01:29.166 +0530",
+				"scriptName": "basicUI.script",
+				"message": "at (858, 271)",
+				"image": "basic-UI/AboutUsOption",
+				"handlerLine": 10,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"10.206\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-09 00:01:19 +0530\", Successes:\"1\", TestCase:\"handlerCaller.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-09 00:01:29.257 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:10 handlerCaller.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-09 00:01:29.326 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-09 00:01:19.050 +0530"
+}

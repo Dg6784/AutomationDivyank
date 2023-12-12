@@ -1,0 +1,17 @@
+﻿2023-12-11 18:32:59.274 +0530	START		Running loginPage.script
+2023-12-11 18:32:59.467 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	11	on_loginpage	loginPage.script
+2023-12-11 18:33:00.776 +0530	typetext		https://rahulshettyacademy.com/practice-project	12	on_loginpage	loginPage.script
+2023-12-11 18:33:03.806 +0530	typetext		[return]	14	on_loginpage	loginPage.script
+2023-12-11 18:33:06.902 +0530	click	Login/loginButton	at (908, 198)	27	on_loginpage	loginPage.script
+2023-12-11 18:33:08.960 +0530	click	Login/emailField	at (517, 359)	28	on_loginpage	loginPage.script
+2023-12-11 18:33:09.986 +0530	typetext		divyankgupta143@gmail.com	29	on_loginpage	loginPage.script
+2023-12-11 18:33:10.795 +0530	click	Login/passwordInputField	at (392, 447)	40	on_loginpage	loginPage.script
+2023-12-11 18:33:11.659 +0530	typetext		Divy@nkg6784	41	on_loginpage	loginPage.script
+2023-12-11 18:33:12.681 +0530	click	Login/loginButtonClick	at (598, 580)	42	on_loginpage	loginPage.script
+2023-12-11 18:33:13.381 +0530	scrollwheeldown		moved 1	43	on_loginpage	loginPage.script
+2023-12-11 18:33:18.490 +0530	click	Login/loginWithGoogleSmall	at (670, 704)	46	on_loginpage	loginPage.script
+2023-12-11 18:33:21.904 +0530	click	Login/emailInput	at (555, 384)	48	on_loginpage	loginPage.script
+2023-12-11 18:33:22.930 +0530	typetext		divyankgupta143@gmail.com	49	on_loginpage	loginPage.script
+2023-12-11 18:33:22.938 +0530	Exception		Too Few Parameters, please use waitfor time, image1[, imageX]	50	on_loginpage	loginPage.script
+2023-12-11 18:33:22.961 +0530	EndTestCase		(Duration:"23.682", Errors:"1", Exceptions:"1", StartTime:"2023-12-11 18:32:59 +0530", Successes:"0", TestCase:"loginPage.script", Warnings:"0")
+2023-12-11 18:33:23.190 +0530	FAILURE	Screen_Error.png	Error Running Script Command: waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:23 loginPage.script

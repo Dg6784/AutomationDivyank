@@ -1,0 +1,3 @@
+﻿2023-12-07 15:43:49.161 +0530	START		Running basic_UI.script
+2023-12-07 15:44:09.029 +0530	EndTestCase		(Duration:"19.863", Errors:"1", Exceptions:"0", StartTime:"2023-12-07 15:43:49 +0530", Successes:"0", TestCase:"basic_UI.script", Warnings:"0")
+2023-12-07 15:44:09.043 +0530	ABORTED		Execution Time 0:00:19 basic_UI.script

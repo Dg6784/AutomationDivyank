@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		592,
+		443,
+		93,
+		31
+	],
+	"lastmodifieddate": 1702313007.631,
+	"createddate": 1702302391.777,
+	"name": "Login/yourEmailInputFiled",
+	"lastfounddate": 1702312943.1259999,
+	"ocrcapturestring": "Your Email*",
+	"lastfoundlocation": [
+		490,
+		462,
+		93,
+		31
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[116,12]",
+					"Tolerance": "_38",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "signUp/yourEmailInputFiled.png",
+				"connectionname": "192.168.0.55",
+				"type": 1,
+				"connectionserverid": "192.168.0.55",
+				"capturerect": [
+					592,
+					443,
+					93,
+					31
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Your Email*"
+			}
+	]
+}

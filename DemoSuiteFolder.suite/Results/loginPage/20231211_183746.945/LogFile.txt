@@ -1,0 +1,20 @@
+﻿2023-12-11 18:37:46.953 +0530	START		Running loginPage.script
+2023-12-11 18:37:47.137 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	11	on_loginpage	loginPage.script
+2023-12-11 18:37:48.466 +0530	typetext		https://rahulshettyacademy.com/practice-project	12	on_loginpage	loginPage.script
+2023-12-11 18:37:51.491 +0530	typetext		[return]	14	on_loginpage	loginPage.script
+2023-12-11 18:37:54.588 +0530	click	Login/loginButton	at (918, 208)	27	on_loginpage	loginPage.script
+2023-12-11 18:37:56.692 +0530	click	Login/emailField	at (527, 369)	28	on_loginpage	loginPage.script
+2023-12-11 18:37:57.720 +0530	typetext		divyankgupta143@gmail.com	29	on_loginpage	loginPage.script
+2023-12-11 18:37:58.534 +0530	click	Login/passwordInputField	at (402, 457)	40	on_loginpage	loginPage.script
+2023-12-11 18:37:59.396 +0530	typetext		Divy@nkg6784	41	on_loginpage	loginPage.script
+2023-12-11 18:38:00.325 +0530	click	Login/loginButtonClick	at (608, 590)	42	on_loginpage	loginPage.script
+2023-12-11 18:38:01.026 +0530	scrollwheeldown		moved 1	43	on_loginpage	loginPage.script
+2023-12-11 18:38:06.131 +0530	click	Login/loginWithGoogleSmall	at (680, 714)	46	on_loginpage	loginPage.script
+2023-12-11 18:38:08.705 +0530	click	Login/emailInput	at (565, 394)	48	on_loginpage	loginPage.script
+2023-12-11 18:38:09.731 +0530	typetext		divyankgupta143@gmail.com	49	on_loginpage	loginPage.script
+2023-12-11 18:38:14.845 +0530	click	Login/nextButtonAfterEnterEmail	at (710, 640)	51	on_loginpage	loginPage.script
+2023-12-11 18:38:15.708 +0530	typetext		Divy@nkg6784	52	on_loginpage	loginPage.script
+2023-12-11 18:38:20.920 +0530	click	Login/checkboxShowpassword	at (456, 492)	58	on_loginpage	loginPage.script
+2023-12-11 18:38:21.723 +0530	click	Login/nextButtonLogin	at (711, 695)	59	on_loginpage	loginPage.script
+2023-12-11 18:38:21.746 +0530	EndTestCase		(Duration:"34.786", Errors:"0", Exceptions:"0", StartTime:"2023-12-11 18:37:46 +0530", Successes:"1", TestCase:"loginPage.script", Warnings:"0")
+2023-12-11 18:38:21.834 +0530	SUCCESS		Execution Time 0:00:34 loginPage.script

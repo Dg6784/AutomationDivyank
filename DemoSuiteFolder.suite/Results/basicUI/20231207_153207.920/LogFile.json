@@ -1,0 +1,72 @@
+{
+	"entries": [
+		{
+				"message": "Running basic_UI.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 15:32:07.930 +0530"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:32:08.147 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:32:09.254 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (972, 58)",
+				"image": "basic-UI/maxmize_Image",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:32:10.095 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (341, 108)",
+				"image": "basic-UI/search_Field.png",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:32:11.475 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "basic_UI.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:32:12.192 +0530",
+				"message": "[return]",
+				"scriptName": "basic_UI.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:32:46.253 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "No Image Found On Screen: \"basic-UI/home_textImage\"",
+				"image": "basic-UI/home_textImage",
+				"handlerLine": 6,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"38.399\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-07 15:32:07 +0530\", Successes:\"0\", TestCase:\"basic_UI.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 15:32:46.334 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:38 basic_UI.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-07 15:32:46.348 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 15:32:07.934 +0530"
+}

@@ -1,0 +1,38 @@
+{
+	"entries": [
+		{
+				"message": "Running basic_UI.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 14:37:03.108 +0530"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 14:37:03.361 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 14:37:04.723 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (341, 108)",
+				"image": "basic-UI/search_Field.png",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"1.638\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-07 14:37:03 +0530\", Successes:\"1\", TestCase:\"basic_UI.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 14:37:04.752 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:01 basic_UI.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-07 14:37:04.846 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 14:37:03.113 +0530"
+}

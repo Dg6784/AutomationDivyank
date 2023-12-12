@@ -1,0 +1,10 @@
+﻿2023-12-08 17:47:36.173 +0530	START		Running basicUI.script
+2023-12-08 17:47:36.496 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	1	on_basicui	basicUI.script
+2023-12-08 17:47:37.804 +0530	typetext		https://rahulshettyacademy.com/practice-project	3	on_basicui	basicUI.script
+2023-12-08 17:47:40.833 +0530	typetext		[return]	5	on_basicui	basicUI.script
+2023-12-08 17:47:43.420 +0530	click	basic-UI/home_textImage	at (299, 228)	6	on_basicui	basicUI.script
+2023-12-08 17:47:44.223 +0530	click	basic-UI/courses_textImage	at (349, 232)	7	on_basicui	basicUI.script
+2023-12-08 17:47:45.083 +0530	click	basic-UI/more_textImagew	at (847, 230)	8	on_basicui	basicUI.script
+2023-12-08 17:47:45.881 +0530	click	basic-UI/AboutUsOption	at (860, 271)	9	on_basicui	basicUI.script
+2023-12-08 17:47:45.908 +0530	EndTestCase		(Duration:"9.731", Errors:"0", Exceptions:"0", StartTime:"2023-12-08 17:47:36 +0530", Successes:"1", TestCase:"basicUI.script", Warnings:"0")
+2023-12-08 17:47:45.976 +0530	SUCCESS		Execution Time 0:00:09 basicUI.script

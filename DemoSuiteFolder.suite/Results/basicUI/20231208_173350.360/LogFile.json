@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running basicUI.script",
+				"identifier": "START",
+				"timestamp": "2023-12-08 17:33:50.380 +0530"
+			},
+		{
+				"handlerName": "on_basicui",
+				"timestamp": "2023-12-08 17:33:50.665 +0530",
+				"scriptName": "basicUI.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_basicui",
+				"timestamp": "2023-12-08 17:33:51.983 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "basicUI.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_basicui",
+				"timestamp": "2023-12-08 17:33:55.009 +0530",
+				"message": "[return]",
+				"scriptName": "basicUI.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"98.476\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-08 17:33:50 +0530\", Successes:\"0\", TestCase:\"basicUI.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-08 17:35:28.863 +0530"
+			},
+		{
+				"message": "Execution Time 0:01:38 basicUI.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-08 17:35:28.885 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-08 17:33:50.386 +0530"
+}

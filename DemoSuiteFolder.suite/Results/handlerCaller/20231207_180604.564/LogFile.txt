@@ -1,0 +1,3 @@
+﻿2023-12-07 18:06:04.572 +0530	START		Running handlerCaller.script
+2023-12-07 18:06:04.679 +0530	EndTestCase		(Duration:"0.1", Errors:"1", Exceptions:"0", StartTime:"2023-12-07 18:06:04 +0530", Successes:"0", TestCase:"handlerCaller.script", Warnings:"0")
+2023-12-07 18:06:04.895 +0530	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: No Such Command: 'greettheuser' -- Execution Time 0:00:00 handlerCaller.script

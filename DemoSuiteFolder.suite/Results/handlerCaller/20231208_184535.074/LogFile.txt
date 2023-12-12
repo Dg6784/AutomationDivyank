@@ -1,0 +1,7 @@
+﻿2023-12-08 18:45:35.083 +0530	START		Running handlerCaller.script
+2023-12-08 18:45:35.475 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	2	on_launchbrowser	dashboardPage.script
+2023-12-08 18:45:36.821 +0530	typetext		https://rahulshettyacademy.com/practice-project	3	on_launchbrowser	dashboardPage.script
+2023-12-08 18:45:39.845 +0530	typetext		[return]	5	on_launchbrowser	dashboardPage.script
+2023-12-08 18:45:43.465 +0530	click	basic-UI/home_textImage	at (299, 228)	6	on_launchbrowser	dashboardPage.script
+2023-12-08 18:45:43.800 +0530	EndTestCase		(Duration:"8.711", Errors:"0", Exceptions:"0", StartTime:"2023-12-08 18:45:35 +0530", Successes:"1", TestCase:"handlerCaller.script", Warnings:"0")
+2023-12-08 18:45:43.887 +0530	SUCCESS		Execution Time 0:00:08 handlerCaller.script

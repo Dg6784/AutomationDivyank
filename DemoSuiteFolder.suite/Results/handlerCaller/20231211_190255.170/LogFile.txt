@@ -1,0 +1,21 @@
+﻿2023-12-11 19:02:55.179 +0530	START		Running handlerCaller.script
+2023-12-11 19:02:55.426 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	2	on_loginpage	loginPage.script
+2023-12-11 19:02:56.754 +0530	typetext		https://rahulshettyacademy.com/practice-project	3	on_loginpage	loginPage.script
+2023-12-11 19:02:59.781 +0530	typetext		[return]	5	on_loginpage	loginPage.script
+2023-12-11 19:03:03.193 +0530	click	Login/loginButton	at (908, 198)	8	on_loginpage	loginPage.script
+2023-12-11 19:03:05.892 +0530	click	Login/emailField	at (517, 359)	9	on_loginpage	loginPage.script
+2023-12-11 19:03:06.921 +0530	typetext		divyankgupta143@gmail.com	10	on_loginpage	loginPage.script
+2023-12-11 19:03:07.733 +0530	click	Login/passwordInputField	at (392, 447)	12	on_loginpage	loginPage.script
+2023-12-11 19:03:08.595 +0530	typetext		Divy@nkg6784	13	on_loginpage	loginPage.script
+2023-12-11 19:03:09.603 +0530	click	Login/loginButtonClick	at (598, 580)	14	on_loginpage	loginPage.script
+2023-12-11 19:03:10.304 +0530	scrollwheeldown		moved 1	15	on_loginpage	loginPage.script
+2023-12-11 19:03:15.420 +0530	click	Login/loginWithGoogleSmall	at (670, 704)	17	on_loginpage	loginPage.script
+2023-12-11 19:03:17.483 +0530	click	Login/emailInput	at (555, 384)	19	on_loginpage	loginPage.script
+2023-12-11 19:03:18.508 +0530	typetext		divyankgupta143@gmail.com	20	on_loginpage	loginPage.script
+2023-12-11 19:03:23.634 +0530	click	Login/nextButtonAfterEnterEmail	at (700, 630)	22	on_loginpage	loginPage.script
+2023-12-11 19:03:27.608 +0530	click	Login/enteryourpasswordShowpassword	at (547, 442)	23	on_loginpage	loginPage.script
+2023-12-11 19:03:28.468 +0530	typetext		Divy@nkg6784	25	on_loginpage	loginPage.script
+2023-12-11 19:03:33.693 +0530	click	Login/checkboxShowpassword	at (446, 482)	27	on_loginpage	loginPage.script
+2023-12-11 19:03:34.499 +0530	click	Login/nextButtonLogin	at (701, 685)	28	on_loginpage	loginPage.script
+2023-12-11 19:03:34.522 +0530	EndTestCase		(Duration:"39.337", Errors:"0", Exceptions:"0", StartTime:"2023-12-11 19:02:55 +0530", Successes:"1", TestCase:"handlerCaller.script", Warnings:"0")
+2023-12-11 19:03:34.620 +0530	SUCCESS		Execution Time 0:00:39 handlerCaller.script

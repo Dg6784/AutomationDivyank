@@ -1,0 +1,5 @@
+﻿2023-12-11 15:22:16.801 +0530	START		Running playWithVariables.script
+2023-12-11 15:22:16.975 +0530	Log		Bonjour	4	on_playwithvariables	playWithVariables.script
+2023-12-11 15:22:16.980 +0530	Log		Bonjour	6	on_playwithvariables	playWithVariables.script
+2023-12-11 15:22:17.043 +0530	EndTestCase		(Duration:"0.235", Errors:"0", Exceptions:"0", StartTime:"2023-12-11 15:22:16 +0530", Successes:"1", TestCase:"playWithVariables.script", Warnings:"0")
+2023-12-11 15:22:17.103 +0530	SUCCESS		Execution Time 0:00:00 playWithVariables.script

@@ -1,0 +1,64 @@
+{
+	"entries": [
+		{
+				"message": "Running handlerCaller.script",
+				"identifier": "START",
+				"timestamp": "2023-12-12 11:02:45.902 +0530"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-12 11:02:46.177 +0530",
+				"scriptName": "dashboardPage.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-12 11:02:47.493 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-12 11:02:50.520 +0530",
+				"message": "[return]",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 11:02:54.931 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (888, 142)",
+				"image": "Login/loginButton",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 11:03:30.990 +0530",
+				"scriptName": "loginPage.script",
+				"message": "No Image Found On Screen: \"Login/emailField\"",
+				"image": "Login/emailField",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"45.139\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-12 11:02:45 +0530\", Successes:\"0\", TestCase:\"handlerCaller.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-12 11:03:31.049 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"Login/emailField\" -- Execution Time 0:00:45 handlerCaller.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-12 11:03:31.344 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-12 11:02:45.908 +0530"
+}

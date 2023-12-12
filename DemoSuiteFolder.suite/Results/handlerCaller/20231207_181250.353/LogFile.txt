@@ -1,0 +1,4 @@
+﻿2023-12-07 18:12:50.364 +0530	START		Running handlerCaller.script
+2023-12-07 18:12:50.445 +0530	Log		Welcome to SenseTalk. Happy scripting!	2	on_greettheuser	handlers_Script.script
+2023-12-07 18:12:50.474 +0530	EndTestCase		(Duration:"0.103", Errors:"0", Exceptions:"0", StartTime:"2023-12-07 18:12:50 +0530", Successes:"1", TestCase:"handlerCaller.script", Warnings:"0")
+2023-12-07 18:12:50.554 +0530	SUCCESS		Execution Time 0:00:00 handlerCaller.script

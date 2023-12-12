@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="basic_UI_script" package="Demo1.suite" timestamp="2023-12-07 14:31:04.777 +0530"
+ tests="1"  failures="1" errors="1" time="0.154000">
+  <properties>
+   <property name="RunDate" value="2023-12-07 14:31:04.777 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="basic_UI.script" assertions="1" status="error"  time="0.137">
+    <failure type="FAILURE" message="File Not Found: doubleclick Error - Could Not Open Image: launchBrowser.png -- Execution Time 0:00:00 basic_UI.script" />
+    <error type="Exception" message="Could Not Open Image: launchBrowser.png" />
+  </testcase>
+ </testsuite>
+</testsuites>

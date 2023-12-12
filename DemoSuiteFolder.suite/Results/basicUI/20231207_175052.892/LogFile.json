@@ -1,0 +1,82 @@
+{
+	"entries": [
+		{
+				"message": "Running basic_UI.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 17:50:52.900 +0530"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 17:50:53.091 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 17:50:54.458 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "basic_UI.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 17:50:57.487 +0530",
+				"message": "[return]",
+				"scriptName": "basic_UI.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 17:51:00.054 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (306, 201)",
+				"image": "basic-UI/home_textImage",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 17:51:01.871 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (356, 205)",
+				"image": "basic-UI/courses_textImage",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 17:51:02.667 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (854, 203)",
+				"image": "basic-UI/more_textImagew",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 17:51:03.519 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (867, 244)",
+				"image": "basic-UI/AboutUsOption",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"10.662\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-07 17:50:52 +0530\", Successes:\"0\", TestCase:\"basic_UI.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 17:51:03.566 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Command: 'greettheuser' -- Execution Time 0:00:10 basic_UI.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-07 17:51:03.720 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 17:50:52.902 +0530"
+}

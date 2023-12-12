@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_script" package="Demo1.suite" timestamp="2023-12-12 11:07:25.177 +0530"
+ tests="1"  failures="1" errors="1" time="36.481000">
+  <properties>
+   <property name="RunDate" value="2023-12-12 11:07:25.177 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Untitled.script" assertions="1" status="error"  time="36.46">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;Login/emailField&quot; -- Execution Time 0:00:36 Untitled.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Login/emailField&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

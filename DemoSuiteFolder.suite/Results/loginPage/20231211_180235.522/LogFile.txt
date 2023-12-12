@@ -1,0 +1,12 @@
+﻿2023-12-11 18:02:35.530 +0530	START		Running loginPage.script
+2023-12-11 18:02:35.705 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	11	on_loginpage	loginPage.script
+2023-12-11 18:02:37.019 +0530	typetext		https://rahulshettyacademy.com/practice-project	12	on_loginpage	loginPage.script
+2023-12-11 18:02:40.046 +0530	typetext		[return]	14	on_loginpage	loginPage.script
+2023-12-11 18:02:51.996 +0530	click	Login/loginButton	at (908, 198)	27	on_loginpage	loginPage.script
+2023-12-11 18:02:55.017 +0530	click	Login/emailField	at (517, 359)	28	on_loginpage	loginPage.script
+2023-12-11 18:02:56.042 +0530	typetext		divyankgupta143@gmail.com	29	on_loginpage	loginPage.script
+2023-12-11 18:02:56.843 +0530	click	Login/passwordInputField	at (392, 447)	40	on_loginpage	loginPage.script
+2023-12-11 18:02:57.705 +0530	typetext		Divy@nkg6784	41	on_loginpage	loginPage.script
+2023-12-11 18:02:58.639 +0530	click	Login/loginButtonClick	at (598, 580)	42	on_loginpage	loginPage.script
+2023-12-11 18:02:58.659 +0530	EndTestCase		(Duration:"23.123", Errors:"0", Exceptions:"0", StartTime:"2023-12-11 18:02:35 +0530", Successes:"1", TestCase:"loginPage.script", Warnings:"0")
+2023-12-11 18:02:58.737 +0530	SUCCESS		Execution Time 0:00:23 loginPage.script

@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running handlerCaller.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 18:45:01.382 +0530"
+			},
+		{
+				"message": "(Duration:\"0.087\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-07 18:45:01 +0530\", Successes:\"0\", TestCase:\"handlerCaller.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 18:45:01.473 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Command: 'castspell' -- Execution Time 0:00:00 handlerCaller.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-07 18:45:01.661 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 18:45:01.385 +0530"
+}

@@ -1,0 +1,4 @@
+﻿2023-12-08 17:42:51.631 +0530	START		Running basicUI.script
+2023-12-08 17:43:17.127 +0530	Exception	basic-UI/launchBrowser	No Image Found On Screen: "basic-UI/launchBrowser"	1	on_basicui	basicUI.script
+2023-12-08 17:43:17.219 +0530	EndTestCase		(Duration:"25.582", Errors:"1", Exceptions:"1", StartTime:"2023-12-08 17:42:51 +0530", Successes:"0", TestCase:"basicUI.script", Warnings:"0")
+2023-12-08 17:43:17.386 +0530	FAILURE	Screen_Error.png	Image Not Found: doubleclick Error - No Image Found On Screen: "basic-UI/launchBrowser" -- Execution Time 0:00:25 basicUI.script

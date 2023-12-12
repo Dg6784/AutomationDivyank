@@ -1,0 +1,50 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-12-07 18:06:04.564 +0530,"Failure",0:00:00,1,0,0,"20231207_180604.564/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'greettheuser'",0
+2023-12-07 18:06:49.820 +0530,"Success",0:00:00,0,0,0,"20231207_180649.820/LogFile.txt","","",1
+2023-12-07 18:12:50.353 +0530,"Success",0:00:00,0,0,0,"20231207_181250.353/LogFile.txt","","",1
+2023-12-07 18:13:57.089 +0530,"Success",0:00:00,0,0,0,"20231207_181357.089/LogFile.txt","","",1
+2023-12-07 18:29:00.095 +0530,"Success",0:00:00,0,0,0,"20231207_182900.095/LogFile.txt","","",1
+2023-12-07 18:29:06.818 +0530,"Success",0:00:00,0,0,0,"20231207_182906.818/LogFile.txt","","",1
+2023-12-07 18:29:51.445 +0530,"Success",0:00:00,0,0,0,"20231207_182951.445/LogFile.txt","","",1
+2023-12-07 18:29:57.772 +0530,"Success",0:00:00,0,0,0,"20231207_182957.772/LogFile.txt","","",1
+2023-12-07 18:31:09.045 +0530,"Success",0:00:00,0,0,0,"20231207_183109.045/LogFile.txt","","",1
+2023-12-07 18:31:14.370 +0530,"Success",0:00:00,0,0,0,"20231207_183114.370/LogFile.txt","","",1
+2023-12-07 18:32:09.647 +0530,"Failure",0:00:00,1,0,0,"20231207_183209.647/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '' and ''",0
+2023-12-07 18:37:22.324 +0530,"Failure",0:00:00,1,0,0,"20231207_183722.324/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'quotient'",0
+2023-12-07 18:38:11.188 +0530,"Failure",0:00:00,1,0,0,"20231207_183811.188/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'quotient'",0
+2023-12-07 18:38:29.892 +0530,"Failure",0:00:00,1,0,0,"20231207_183829.892/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '' and ''",0
+2023-12-07 18:39:57.420 +0530,"Success",0:00:00,0,0,0,"20231207_183957.420/LogFile.txt","","",1
+2023-12-07 18:40:02.541 +0530,"Success",0:00:00,0,0,0,"20231207_184002.541/LogFile.txt","","",1
+2023-12-07 18:40:24.522 +0530,"Success",0:00:00,0,0,0,"20231207_184024.522/LogFile.txt","","",1
+2023-12-07 18:40:26.714 +0530,"Success",0:00:00,0,0,0,"20231207_184026.714/LogFile.txt","","",1
+2023-12-07 18:45:01.377 +0530,"Failure",0:00:00,1,0,0,"20231207_184501.377/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'castspell'",0
+2023-12-07 18:45:21.663 +0530,"Success",0:00:00,0,0,0,"20231207_184521.663/LogFile.txt","","",1
+2023-12-07 18:46:10.073 +0530,"Failure",0:00:00,1,0,0,"20231207_184610.073/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '' and ''",0
+2023-12-07 19:07:37.571 +0530,"Failure",0:00:00,1,0,0,"20231207_190737.571/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'handlers_Script'.",0
+2023-12-07 19:07:58.300 +0530,"Success",0:00:00,0,0,0,"20231207_190758.300/LogFile.txt","","",1
+2023-12-08 16:11:08.042 +0530,"Success",0:00:00,0,0,0,"20231208_161108.042/LogFile.txt","","",1
+2023-12-08 16:28:40.072 +0530,"Success",0:00:00,0,0,0,"20231208_162840.072/LogFile.txt","","",1
+2023-12-08 16:38:20.594 +0530,"Failure",0:00:09,1,0,1,"20231208_163820.594/LogFile.txt","","No Remote Connection -- imagefound Error - Remote Connection Unavailable",0
+2023-12-08 18:37:59.802 +0530,"Success",0:00:07,0,0,0,"20231208_183759.802/LogFile.txt","","",1
+2023-12-08 18:45:35.074 +0530,"Success",0:00:08,0,0,0,"20231208_184535.074/LogFile.txt","","",1
+2023-12-08 18:56:27.112 +0530,"Aborted",0:00:26,1,0,1,"20231208_185627.112/LogFile.txt","","",0
+2023-12-08 18:57:17.132 +0530,"Failure",0:00:31,1,0,1,"20231208_185717.132/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Login/emailField""",0
+2023-12-08 19:00:02.395 +0530,"Failure",0:00:39,1,0,1,"20231208_190002.395/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Login/emailField""",0
+2023-12-09 00:01:19.038 +0530,"Success",0:00:10,0,0,0,"20231209_000119.038/LogFile.txt","","",1
+2023-12-09 00:03:12.853 +0530,"Aborted",0:00:19,1,0,1,"20231209_000312.853/LogFile.txt","","",0
+2023-12-09 00:03:33.868 +0530,"Aborted",0:01:53,1,0,1,"20231209_000333.868/LogFile.txt","","",0
+2023-12-09 00:05:28.346 +0530,"Failure",0:00:40,1,0,1,"20231209_000528.346/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Login/emailField""",0
+2023-12-11 16:51:00.309 +0530,"Failure",0:00:39,1,0,1,"20231211_165100.309/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Login/emailField""",0
+2023-12-11 16:56:43.536 +0530,"Success",0:00:14,0,0,0,"20231211_165643.536/LogFile.txt","","",1
+2023-12-11 19:02:55.170 +0530,"Success",0:00:39,0,0,0,"20231211_190255.170/LogFile.txt","","",1
+2023-12-11 19:04:57.555 +0530,"Success",0:00:07,0,0,0,"20231211_190457.555/LogFile.txt","","",1
+2023-12-11 19:09:11.961 +0530,"Success",0:00:39,0,0,0,"20231211_190911.961/LogFile.txt","","",1
+2023-12-11 22:37:18.147 +0530,"Success",0:00:14,0,0,0,"20231211_223718.147/LogFile.txt","","",1
+2023-12-12 10:47:21.911 +0530,"Success",0:00:42,0,0,0,"20231212_104721.911/LogFile.txt","","",1
+2023-12-12 10:50:40.198 +0530,"Aborted",0:00:46,1,0,1,"20231212_105040.198/LogFile.txt","","",0
+2023-12-12 10:51:28.179 +0530,"Success",0:00:38,0,0,0,"20231212_105128.179/LogFile.txt","","",1
+2023-12-12 10:59:32.962 +0530,"Aborted",0:00:47,1,0,1,"20231212_105932.962/LogFile.txt","","",0
+2023-12-12 11:00:25.509 +0530,"Aborted",0:01:11,1,0,1,"20231212_110025.509/LogFile.txt","","",0
+2023-12-12 11:02:45.893 +0530,"Failure",0:00:45,1,0,1,"20231212_110245.893/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Login/emailField""",0
+2023-12-12 11:03:49.455 +0530,"Failure",0:00:45,1,0,1,"20231212_110349.455/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Login/emailField""",0
+2023-12-12 11:04:49.368 +0530,"Success",0:00:07,0,0,0,"20231212_110449.368/LogFile.txt","","",1

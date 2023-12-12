@@ -1,0 +1,9 @@
+﻿2023-12-08 19:00:02.402 +0530	START		Running handlerCaller.script
+2023-12-08 19:00:02.725 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	2	on_launchbrowser	dashboardPage.script
+2023-12-08 19:00:04.045 +0530	typetext		https://rahulshettyacademy.com/practice-project	3	on_launchbrowser	dashboardPage.script
+2023-12-08 19:00:07.073 +0530	typetext		[return]	5	on_launchbrowser	dashboardPage.script
+2023-12-08 19:00:09.514 +0530	click	basic-UI/home_textImage	at (299, 228)	6	on_launchbrowser	dashboardPage.script
+2023-12-08 19:00:10.310 +0530	click	Login/loginButton	at (881, 171)	12	on_loginpage	loginpage.script
+2023-12-08 19:00:41.348 +0530	Exception	Login/emailField	No Image Found On Screen: "Login/emailField"	13	on_loginpage	loginpage.script
+2023-12-08 19:00:41.399 +0530	EndTestCase		(Duration:"38.989", Errors:"1", Exceptions:"1", StartTime:"2023-12-08 19:00:02 +0530", Successes:"0", TestCase:"handlerCaller.script", Warnings:"0")
+2023-12-08 19:00:41.597 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Login/emailField" -- Execution Time 0:00:39 handlerCaller.script

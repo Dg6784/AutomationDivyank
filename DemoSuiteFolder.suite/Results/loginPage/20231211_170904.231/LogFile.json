@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running loginPage.script",
+				"identifier": "START",
+				"timestamp": "2023-12-11 17:09:04.243 +0530"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:09:20.176 +0530",
+				"scriptName": "loginPage.script",
+				"message": "No Image Found On Screen: \"basic-UI/launchBrowser\"",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 11,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"16.057\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-11 17:09:04 +0530\", Successes:\"0\", TestCase:\"loginPage.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-11 17:09:20.309 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:16 loginPage.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-11 17:09:20.332 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-11 17:09:04.249 +0530"
+}

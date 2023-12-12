@@ -1,0 +1,175 @@
+{
+	"entries": [
+		{
+				"message": "Running handlerCaller.script",
+				"identifier": "START",
+				"timestamp": "2023-12-12 10:51:28.191 +0530"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-12 10:51:28.445 +0530",
+				"scriptName": "dashboardPage.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-12 10:51:29.821 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-12 10:51:32.847 +0530",
+				"message": "[return]",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:51:35.955 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (888, 142)",
+				"image": "Login/loginButton",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:51:38.662 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (497, 339)",
+				"image": "Login/emailField",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:51:39.685 +0530",
+				"message": "divyankgupta143@gmail.com",
+				"scriptName": "loginPage.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:51:40.501 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (372, 427)",
+				"image": "Login/passwordInputField",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:51:41.361 +0530",
+				"message": "Divy@nkg6784",
+				"scriptName": "loginPage.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:51:42.339 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (578, 560)",
+				"image": "Login/loginButtonClick",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:51:43.040 +0530",
+				"message": "moved 1",
+				"scriptName": "loginPage.script",
+				"handlerLine": 2,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:51:48.151 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (650, 684)",
+				"image": "Login/loginWithGoogleSmall",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:51:50.688 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (535, 364)",
+				"image": "Login/emailInput",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:51:51.720 +0530",
+				"message": "divyankgupta143@gmail.com",
+				"scriptName": "loginPage.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:51:56.840 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (680, 610)",
+				"image": "Login/nextButtonAfterEnterEmail",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:51:59.450 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (527, 422)",
+				"image": "Login/enteryourpasswordShowpassword",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:52:00.310 +0530",
+				"message": "Divy@nkg6784",
+				"scriptName": "loginPage.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:52:05.524 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (426, 462)",
+				"image": "Login/checkboxShowpassword",
+				"handlerLine": 12,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:52:06.330 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (681, 665)",
+				"image": "Login/nextButtonLogin",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"38.158\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-12 10:51:28 +0530\", Successes:\"1\", TestCase:\"handlerCaller.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-12 10:52:06.356 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:38 handlerCaller.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-12 10:52:06.455 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-12 10:51:28.196 +0530"
+}

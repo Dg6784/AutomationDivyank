@@ -1,0 +1,89 @@
+{
+	"entries": [
+		{
+				"message": "Running signUp.script",
+				"identifier": "START",
+				"timestamp": "2023-12-11 22:32:31.228 +0530"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-11 22:32:31.454 +0530",
+				"scriptName": "dashboardPage.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-11 22:32:32.761 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-11 22:32:35.787 +0530",
+				"message": "[return]",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signup",
+				"timestamp": "2023-12-11 22:32:38.899 +0530",
+				"scriptName": "signUp.script",
+				"message": "at (610, 421)",
+				"image": "signUp/yourNameInputField",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signup",
+				"timestamp": "2023-12-11 22:32:39.771 +0530",
+				"message": "Divyank gupta",
+				"scriptName": "signUp.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signup",
+				"timestamp": "2023-12-11 22:32:42.883 +0530",
+				"scriptName": "signUp.script",
+				"message": "at (599, 477)",
+				"image": "signUp/emailInput1",
+				"handlerLine": 10,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signup",
+				"timestamp": "2023-12-11 22:32:43.906 +0530",
+				"message": "divyankgupta143@gmail.com",
+				"scriptName": "signUp.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signup",
+				"timestamp": "2023-12-11 22:33:07.900 +0530",
+				"scriptName": "signUp.script",
+				"message": "No Image Found On Screen: \"signUp/yourEmailInputFiled\"",
+				"image": "signUp/yourEmailInputFiled",
+				"handlerLine": 12,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"36.689\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-11 22:32:31 +0530\", Successes:\"0\", TestCase:\"signUp.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-11 22:33:07.920 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"signUp/yourEmailInputFiled\" -- Execution Time 0:00:36 signUp.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-11 22:33:08.105 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-11 22:32:31.231 +0530"
+}

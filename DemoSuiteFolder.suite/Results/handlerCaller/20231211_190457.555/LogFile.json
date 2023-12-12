@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running handlerCaller.script",
+				"identifier": "START",
+				"timestamp": "2023-12-11 19:04:57.571 +0530"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-11 19:04:57.792 +0530",
+				"scriptName": "dashboardPage.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-11 19:04:59.126 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-11 19:05:02.152 +0530",
+				"message": "[return]",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"7.62\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-11 19:04:57 +0530\", Successes:\"1\", TestCase:\"handlerCaller.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-11 19:05:05.199 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:07 handlerCaller.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-11 19:05:05.298 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-11 19:04:57.576 +0530"
+}

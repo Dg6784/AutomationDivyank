@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="handlerCaller_script" package="Demo1.suite" timestamp="2023-12-12 11:02:45.893 +0530"
+ tests="1"  failures="1" errors="1" time="45.153000">
+  <properties>
+   <property name="RunDate" value="2023-12-12 11:02:45.893 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="handlerCaller.script" assertions="1" status="error"  time="45.139">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;Login/emailField&quot; -- Execution Time 0:00:45 handlerCaller.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Login/emailField&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

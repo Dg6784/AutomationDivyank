@@ -1,0 +1,81 @@
+{
+	"entries": [
+		{
+				"message": "Running loginPage.script",
+				"identifier": "START",
+				"timestamp": "2023-12-11 17:37:34.376 +0530"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:37:34.591 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 11,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:37:35.945 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "loginPage.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:37:38.975 +0530",
+				"message": "[return]",
+				"scriptName": "loginPage.script",
+				"handlerLine": 14,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:37:43.962 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (908, 198)",
+				"image": "Login/loginButton",
+				"handlerLine": 25,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:37:48.705 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (517, 359)",
+				"image": "Login/emailField",
+				"handlerLine": 26,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:37:49.739 +0530",
+				"message": "divyankgupta143@gmail.com",
+				"scriptName": "loginPage.script",
+				"handlerLine": 27,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:38:20.788 +0530",
+				"scriptName": "loginPage.script",
+				"message": "No Image Found On Screen: \"Login/passwordField\"",
+				"image": "Login/passwordField",
+				"handlerLine": 32,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"46.443\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-11 17:37:34 +0530\", Successes:\"0\", TestCase:\"loginPage.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-11 17:38:20.828 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"Login/passwordField\" -- Execution Time 0:00:46 loginPage.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-11 17:38:21.087 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-11 17:37:34.384 +0530"
+}

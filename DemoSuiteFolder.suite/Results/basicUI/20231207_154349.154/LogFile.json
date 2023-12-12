@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running basic_UI.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 15:43:49.161 +0530"
+			},
+		{
+				"message": "(Duration:\"19.863\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-07 15:43:49 +0530\", Successes:\"0\", TestCase:\"basic_UI.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 15:44:09.029 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:19 basic_UI.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-07 15:44:09.043 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 15:43:49.164 +0530"
+}

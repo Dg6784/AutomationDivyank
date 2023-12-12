@@ -1,0 +1,33 @@
+{
+    "Login/checkboxShowpassword.png" = "2023-12-12 05:22 +0000";
+    "Login/clickLoginButtonSmall.png" = "2023-12-11 12:30 +0000";
+    "Login/clickOnAlredyEmail.png" = "2023-12-08 13:33 +0000";
+    "Login/divvyankTextBlack.png" = "2023-12-12 05:28 +0000";
+    "Login/divyankGuptaText.png" = "2023-12-12 05:24 +0000";
+    "Login/emailField.png" = "2023-12-12 05:37 +0000";
+    "Login/emailInput.png" = "2023-12-12 05:21 +0000";
+    "Login/emptyImageClick.png" = "2023-12-12 05:39 +0000";
+    "Login/enteryourpasswordShowpassword.png" = "2023-12-12 05:21 +0000";
+    "Login/eyeShowPassword.png" = "2023-12-11 13:07 +0000";
+    "Login/loginButton.png" = "2023-12-12 05:44 +0000";
+    "Login/loginButtonClick.png" = "2023-12-08 12:30 +0000";
+    "Login/loginWithGoogle.png" = "2023-12-08 12:31 +0000";
+    "Login/loginWithGoogleSmall.png" = "2023-12-12 05:21 +0000";
+    "Login/nextButtonAfterEnterEmail.png" = "2023-12-12 05:21 +0000";
+    "Login/nextButtonLogin.png" = "2023-12-12 05:22 +0000";
+    "Login/passwordField.png" = "2023-12-11 12:20 +0000";
+    "Login/passwordInputField.png" = "2023-12-12 05:21 +0000";
+    "Login/submitClick.png" = "2023-12-11 17:07 +0000";
+    "Login/tryanotherway.png" = "2023-12-08 12:38 +0000";
+    "Login/yourEmailInputFiled.png" = "2023-12-11 16:34 +0000";
+    "basic-UI/AboutUsOption.png" = "2023-12-08 18:31 +0000";
+    "basic-UI/courses_textImage.png" = "2023-12-08 18:31 +0000";
+    "basic-UI/home_textImage.png" = "2023-12-11 11:58 +0000";
+    "basic-UI/launchBrowser.png" = "2023-12-12 05:34 +0000";
+    "basic-UI/maxmize_Image.png" = "2023-12-11 16:59 +0000";
+    "basic-UI/more_textImagew.png" = "2023-12-08 18:31 +0000";
+    "basic-UI/search_Field.png" = "2023-12-07 10:08 +0000";
+    "signUp/emailInput1.png" = "2023-12-11 17:07 +0000";
+    "signUp/registerButton.png" = "2023-12-11 13:57 +0000";
+    "signUp/yourNameInputField.png" = "2023-12-11 17:07 +0000";
+}

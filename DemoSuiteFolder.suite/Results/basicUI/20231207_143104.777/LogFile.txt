@@ -1,0 +1,4 @@
+﻿2023-12-07 14:31:04.787 +0530	START		Running basic_UI.script
+2023-12-07 14:31:04.868 +0530	Exception	launchBrowser.png	Could Not Open Image: launchBrowser.png	1	on_basic_ui	basic_UI.script
+2023-12-07 14:31:04.933 +0530	EndTestCase		(Duration:"0.137", Errors:"1", Exceptions:"1", StartTime:"2023-12-07 14:31:04 +0530", Successes:"0", TestCase:"basic_UI.script", Warnings:"0")
+2023-12-07 14:31:05.140 +0530	FAILURE	Screen_Error.png	File Not Found: doubleclick Error - Could Not Open Image: launchBrowser.png -- Execution Time 0:00:00 basic_UI.script

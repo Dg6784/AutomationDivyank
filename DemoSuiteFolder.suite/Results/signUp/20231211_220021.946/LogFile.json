@@ -1,0 +1,71 @@
+{
+	"entries": [
+		{
+				"message": "Running signUp.script",
+				"identifier": "START",
+				"timestamp": "2023-12-11 22:00:21.953 +0530"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-11 22:00:22.211 +0530",
+				"scriptName": "dashboardPage.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-11 22:00:23.528 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-11 22:00:26.554 +0530",
+				"message": "[return]",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signup",
+				"timestamp": "2023-12-11 22:00:29.665 +0530",
+				"scriptName": "signUp.script",
+				"message": "at (610, 421)",
+				"image": "signUp/yourNameInputField",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_signup",
+				"timestamp": "2023-12-11 22:00:30.538 +0530",
+				"message": "Divyank gupta",
+				"scriptName": "signUp.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_signup",
+				"timestamp": "2023-12-11 22:04:31.865 +0530",
+				"scriptName": "signUp.script",
+				"message": "No Image Found On Screen: \"signUp/yourEmailInputFiled\"",
+				"image": "signUp/yourEmailInputFiled",
+				"handlerLine": 10,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"249.969\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-11 22:00:21 +0530\", Successes:\"0\", TestCase:\"signUp.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-11 22:04:31.928 +0530"
+			},
+		{
+				"message": "Execution Time 0:04:09 signUp.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-11 22:04:31.945 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-11 22:00:21.957 +0530"
+}

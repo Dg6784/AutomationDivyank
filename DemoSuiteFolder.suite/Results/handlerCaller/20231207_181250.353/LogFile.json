@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running handlerCaller.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 18:12:50.364 +0530"
+			},
+		{
+				"handlerName": "on_greettheuser",
+				"timestamp": "2023-12-07 18:12:50.445 +0530",
+				"message": "Welcome to SenseTalk. Happy scripting!",
+				"scriptName": "handlers_Script.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.103\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-07 18:12:50 +0530\", Successes:\"1\", TestCase:\"handlerCaller.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 18:12:50.474 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 handlerCaller.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-07 18:12:50.554 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 18:12:50.369 +0530"
+}

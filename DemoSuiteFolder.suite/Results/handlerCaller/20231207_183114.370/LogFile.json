@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running handlerCaller.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 18:31:14.380 +0530"
+			},
+		{
+				"handlerName": "on_increasesize",
+				"timestamp": "2023-12-07 18:31:14.469 +0530",
+				"message": "size",
+				"scriptName": "handlers_Script.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.104\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-07 18:31:14 +0530\", Successes:\"1\", TestCase:\"handlerCaller.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 18:31:14.492 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 handlerCaller.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-07 18:31:14.566 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 18:31:14.387 +0530"
+}

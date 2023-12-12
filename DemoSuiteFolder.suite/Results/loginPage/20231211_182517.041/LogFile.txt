@@ -1,0 +1,14 @@
+﻿2023-12-11 18:25:17.052 +0530	START		Running loginPage.script
+2023-12-11 18:25:17.237 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	11	on_loginpage	loginPage.script
+2023-12-11 18:25:18.572 +0530	typetext		https://rahulshettyacademy.com/practice-project	12	on_loginpage	loginPage.script
+2023-12-11 18:25:21.597 +0530	typetext		[return]	14	on_loginpage	loginPage.script
+2023-12-11 18:25:24.693 +0530	click	Login/loginButton	at (908, 198)	27	on_loginpage	loginPage.script
+2023-12-11 18:25:28.032 +0530	click	Login/emailField	at (517, 359)	28	on_loginpage	loginPage.script
+2023-12-11 18:25:29.056 +0530	typetext		divyankgupta143@gmail.com	29	on_loginpage	loginPage.script
+2023-12-11 18:25:29.865 +0530	click	Login/passwordInputField	at (392, 447)	40	on_loginpage	loginPage.script
+2023-12-11 18:25:30.726 +0530	typetext		Divy@nkg6784	41	on_loginpage	loginPage.script
+2023-12-11 18:25:31.670 +0530	click	Login/loginButtonClick	at (598, 580)	42	on_loginpage	loginPage.script
+2023-12-11 18:25:32.468 +0530	click	Login/loginWithGoogleSmall	at (670, 704)	43	on_loginpage	loginPage.script
+2023-12-11 18:25:58.694 +0530	Exception	Login/emailInput	No Image Found On Screen: "Login/emailInput"	44	on_loginpage	loginPage.script
+2023-12-11 18:25:58.763 +0530	EndTestCase		(Duration:"41.706", Errors:"1", Exceptions:"1", StartTime:"2023-12-11 18:25:17 +0530", Successes:"0", TestCase:"loginPage.script", Warnings:"0")
+2023-12-11 18:25:58.961 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Login/emailInput" -- Execution Time 0:00:41 loginPage.script

@@ -1,0 +1,123 @@
+{
+	"entries": [
+		{
+				"message": "Running handlerCaller.script",
+				"identifier": "START",
+				"timestamp": "2023-12-12 10:50:40.211 +0530"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-12 10:50:40.470 +0530",
+				"scriptName": "dashboardPage.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 2,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-12 10:50:41.791 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-12 10:50:44.816 +0530",
+				"message": "[return]",
+				"scriptName": "dashboardPage.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:50:47.925 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (888, 142)",
+				"image": "Login/loginButton",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:50:49.996 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (497, 339)",
+				"image": "Login/emailField",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:50:51.021 +0530",
+				"message": "divyankgupta143@gmail.com",
+				"scriptName": "loginPage.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:50:51.835 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (372, 427)",
+				"image": "Login/passwordInputField",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:50:52.700 +0530",
+				"message": "Divy@nkg6784",
+				"scriptName": "loginPage.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-12 10:50:53.669 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (578, 560)",
+				"image": "Login/loginButtonClick",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:50:54.371 +0530",
+				"message": "moved 1",
+				"scriptName": "loginPage.script",
+				"handlerLine": 2,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:50:59.481 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (650, 684)",
+				"image": "Login/loginWithGoogleSmall",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginwithgoogle",
+				"timestamp": "2023-12-12 10:51:26.080 +0530",
+				"scriptName": "loginPage.script",
+				"message": "No Image Found On Screen: \"Login/emailInput\"",
+				"image": "Login/emailInput",
+				"handlerLine": 5,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"46.066\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-12 10:50:40 +0530\", Successes:\"0\", TestCase:\"handlerCaller.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-12 10:51:26.283 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:46 handlerCaller.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-12 10:51:26.300 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-12 10:50:40.215 +0530"
+}

@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running handlerCaller.script",
+				"identifier": "START",
+				"timestamp": "2023-12-09 00:03:12.864 +0530"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2023-12-09 00:03:32.007 +0530",
+				"scriptName": "dashboardPage.script",
+				"message": "No Image Found On Screen: \"basic-UI/launchBrowser\"",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"19.233\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-09 00:03:12 +0530\", Successes:\"0\", TestCase:\"handlerCaller.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-09 00:03:32.101 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:19 handlerCaller.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-09 00:03:32.116 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-09 00:03:12.868 +0530"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="loginPage_script" package="Demo1.suite" timestamp="2023-12-08 23:55:05.514 +0530"
+ tests="1"  failures="0" errors="0" time="28.914000">
+  <properties>
+   <property name="RunDate" value="2023-12-08 23:55:05.514 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="loginPage.script" assertions="1" status="error"  time="28.901">
+    <error type="Exception" message="No Image Found On Screen: &quot;Login/passwordField&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

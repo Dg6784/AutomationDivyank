@@ -1,0 +1,7 @@
+﻿2023-12-08 19:04:20.382 +0530	START		Running loginPage.script
+2023-12-08 19:04:20.617 +0530	click	Login/loginButton	at (881, 171)	12	on_loginpage	loginPage.script
+2023-12-08 19:04:24.588 +0530	click	Login/emailField	at (490, 330)	13	on_loginpage	loginPage.script
+2023-12-08 19:04:25.616 +0530	typetext		divyankgupta143@gmail.com	14	on_loginpage	loginPage.script
+2023-12-08 19:04:57.145 +0530	Exception	Login/clickOnAlredyEmail	No Image Found On Screen: "Login/clickOnAlredyEmail"	15	on_loginpage	loginPage.script
+2023-12-08 19:04:57.185 +0530	EndTestCase		(Duration:"36.796", Errors:"1", Exceptions:"1", StartTime:"2023-12-08 19:04:20 +0530", Successes:"0", TestCase:"loginPage.script", Warnings:"0")
+2023-12-08 19:04:57.361 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Login/clickOnAlredyEmail" -- Execution Time 0:00:36 loginPage.script

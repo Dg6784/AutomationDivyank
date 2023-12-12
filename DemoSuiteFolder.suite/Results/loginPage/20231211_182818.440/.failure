@@ -1,0 +1,1 @@
+2023-12-11 18:28:18.440 +0530,Failure,0:00:25,1,0,1,20231211_182818.440/LogFile.txt,"","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0

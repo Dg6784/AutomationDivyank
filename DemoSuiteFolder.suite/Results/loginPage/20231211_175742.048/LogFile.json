@@ -1,0 +1,98 @@
+{
+	"entries": [
+		{
+				"message": "Running loginPage.script",
+				"identifier": "START",
+				"timestamp": "2023-12-11 17:57:42.059 +0530"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:57:42.262 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 11,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:57:43.590 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "loginPage.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:57:46.616 +0530",
+				"message": "[return]",
+				"scriptName": "loginPage.script",
+				"handlerLine": 14,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:57:49.717 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (908, 198)",
+				"image": "Login/loginButton",
+				"handlerLine": 27,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:58:03.008 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (517, 359)",
+				"image": "Login/emailField",
+				"handlerLine": 28,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:58:04.038 +0530",
+				"message": "divyankgupta143@gmail.com",
+				"scriptName": "loginPage.script",
+				"handlerLine": 29,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:58:04.856 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (392, 447)",
+				"image": "Login/passwordInputField",
+				"handlerLine": 40,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:58:05.718 +0530",
+				"message": "Divy@nkg6784",
+				"scriptName": "loginPage.script",
+				"handlerLine": 41,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 17:58:36.778 +0530",
+				"scriptName": "loginPage.script",
+				"message": "No Image Found On Screen: \"Login/loginButtonClick\"",
+				"image": "Login/loginButtonClick",
+				"handlerLine": 42,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"54.8\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-11 17:57:42 +0530\", Successes:\"0\", TestCase:\"loginPage.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-11 17:58:36.867 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"Login/loginButtonClick\" -- Execution Time 0:00:54 loginPage.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-11 17:58:37.142 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-11 17:57:42.064 +0530"
+}

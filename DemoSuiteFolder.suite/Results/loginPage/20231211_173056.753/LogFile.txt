@@ -1,0 +1,6 @@
+﻿2023-12-11 17:30:56.765 +0530	START		Running loginPage.script
+2023-12-11 17:30:56.998 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	11	on_loginpage	loginPage.script
+2023-12-11 17:30:58.307 +0530	typetext		https://rahulshettyacademy.com/practice-project	12	on_loginpage	loginPage.script
+2023-12-11 17:31:01.335 +0530	typetext		[return]	14	on_loginpage	loginPage.script
+2023-12-11 17:31:01.363 +0530	EndTestCase		(Duration:"4.589", Errors:"0", Exceptions:"0", StartTime:"2023-12-11 17:30:56 +0530", Successes:"1", TestCase:"loginPage.script", Warnings:"0")
+2023-12-11 17:31:01.486 +0530	SUCCESS		Execution Time 0:00:04 loginPage.script

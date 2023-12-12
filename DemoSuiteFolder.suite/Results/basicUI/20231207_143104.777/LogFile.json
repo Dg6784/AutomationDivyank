@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running basic_UI.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 14:31:04.787 +0530"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 14:31:04.868 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "Could Not Open Image: launchBrowser.png",
+				"image": "launchBrowser.png",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"0.137\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-07 14:31:04 +0530\", Successes:\"0\", TestCase:\"basic_UI.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 14:31:04.933 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: doubleclick Error - Could Not Open Image: launchBrowser.png -- Execution Time 0:00:00 basic_UI.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-07 14:31:05.140 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 14:31:04.795 +0530"
+}

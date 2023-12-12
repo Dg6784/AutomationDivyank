@@ -1,0 +1,21 @@
+﻿2023-12-11 19:09:11.980 +0530	START		Running handlerCaller.script
+2023-12-11 19:09:12.234 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	2	on_launchbrowser	dashboardPage.script
+2023-12-11 19:09:13.552 +0530	typetext		https://rahulshettyacademy.com/practice-project	3	on_launchbrowser	dashboardPage.script
+2023-12-11 19:09:16.581 +0530	typetext		[return]	5	on_launchbrowser	dashboardPage.script
+2023-12-11 19:09:19.686 +0530	click	Login/loginButton	at (918, 208)	2	on_loginpage	loginPage.script
+2023-12-11 19:09:24.156 +0530	click	Login/emailField	at (527, 369)	3	on_loginpage	loginPage.script
+2023-12-11 19:09:25.182 +0530	typetext		divyankgupta143@gmail.com	4	on_loginpage	loginPage.script
+2023-12-11 19:09:25.991 +0530	click	Login/passwordInputField	at (402, 457)	5	on_loginpage	loginPage.script
+2023-12-11 19:09:26.852 +0530	typetext		Divy@nkg6784	6	on_loginpage	loginPage.script
+2023-12-11 19:09:27.813 +0530	click	Login/loginButtonClick	at (608, 590)	7	on_loginpage	loginPage.script
+2023-12-11 19:09:28.513 +0530	scrollwheeldown		moved 1	2	on_loginwithgoogle	loginPage.script
+2023-12-11 19:09:33.621 +0530	click	Login/loginWithGoogleSmall	at (680, 714)	4	on_loginwithgoogle	loginPage.script
+2023-12-11 19:09:36.251 +0530	click	Login/emailInput	at (565, 394)	5	on_loginwithgoogle	loginPage.script
+2023-12-11 19:09:37.279 +0530	typetext		divyankgupta143@gmail.com	6	on_loginwithgoogle	loginPage.script
+2023-12-11 19:09:42.397 +0530	click	Login/nextButtonAfterEnterEmail	at (710, 640)	8	on_loginwithgoogle	loginPage.script
+2023-12-11 19:09:44.948 +0530	click	Login/enteryourpasswordShowpassword	at (557, 452)	9	on_loginwithgoogle	loginPage.script
+2023-12-11 19:09:45.807 +0530	typetext		Divy@nkg6784	10	on_loginwithgoogle	loginPage.script
+2023-12-11 19:09:51.035 +0530	click	Login/checkboxShowpassword	at (456, 492)	12	on_loginwithgoogle	loginPage.script
+2023-12-11 19:09:51.840 +0530	click	Login/nextButtonLogin	at (711, 695)	13	on_loginwithgoogle	loginPage.script
+2023-12-11 19:09:51.866 +0530	EndTestCase		(Duration:"39.879", Errors:"0", Exceptions:"0", StartTime:"2023-12-11 19:09:11 +0530", Successes:"1", TestCase:"handlerCaller.script", Warnings:"0")
+2023-12-11 19:09:51.957 +0530	SUCCESS		Execution Time 0:00:39 handlerCaller.script

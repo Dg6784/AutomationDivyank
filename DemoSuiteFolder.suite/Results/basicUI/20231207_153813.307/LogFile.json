@@ -1,0 +1,73 @@
+{
+	"entries": [
+		{
+				"message": "Running basic_UI.script",
+				"identifier": "START",
+				"timestamp": "2023-12-07 15:38:13.321 +0530"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:38:13.505 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:38:14.657 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (972, 58)",
+				"image": "basic-UI/maxmize_Image",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:38:15.448 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "at (341, 108)",
+				"image": "basic-UI/search_Field.png",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:38:16.752 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "basic_UI.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:38:19.774 +0530",
+				"message": "[return]",
+				"scriptName": "basic_UI.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_basic_ui",
+				"timestamp": "2023-12-07 15:38:45.812 +0530",
+				"scriptName": "basic_UI.script",
+				"message": "No Image Found On Screen: \"basic-UI/home_textImage\"",
+				"image": "basic-UI/home_textImage",
+				"handlerLine": 7,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"32.513\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-07 15:38:13 +0530\", Successes:\"0\", TestCase:\"basic_UI.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-07 15:38:45.839 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"basic-UI/home_textImage\" -- Execution Time 0:00:32 basic_UI.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-07 15:38:45.948 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-07 15:38:13.324 +0530"
+}

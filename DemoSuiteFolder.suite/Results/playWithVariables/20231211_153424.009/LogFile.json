@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+				"message": "Running playWithVariables.script",
+				"identifier": "START",
+				"timestamp": "2023-12-11 15:34:24.017 +0530"
+			},
+		{
+				"handlerName": "on_playwithvariables",
+				"timestamp": "2023-12-11 15:34:24.126 +0530",
+				"message": "Bonjour",
+				"scriptName": "playWithVariables.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_playwithvariables",
+				"timestamp": "2023-12-11 15:34:24.132 +0530",
+				"message": "Bonjour",
+				"scriptName": "playWithVariables.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_playwithvariables",
+				"timestamp": "2023-12-11 15:34:24.139 +0530",
+				"message": "Bonjour",
+				"scriptName": "playWithVariables.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.203\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-11 15:34:24 +0530\", Successes:\"1\", TestCase:\"playWithVariables.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-11 15:34:24.227 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 playWithVariables.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-11 15:34:24.294 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-11 15:34:24.024 +0530"
+}

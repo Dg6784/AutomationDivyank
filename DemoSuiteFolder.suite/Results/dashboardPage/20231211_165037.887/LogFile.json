@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running dashboardPage.script",
+				"identifier": "START",
+				"timestamp": "2023-12-11 16:50:37.896 +0530"
+			},
+		{
+				"message": "(Duration:\"0\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-11 16:50:37 +0530\", Successes:\"1\", TestCase:\"dashboardPage.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-11 16:50:37.904 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 dashboardPage.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-11 16:50:38.044 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-11 16:50:37.902 +0530"
+}

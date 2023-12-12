@@ -1,0 +1,4 @@
+﻿2023-12-11 19:26:57.535 +0530	START		Running signUp.script
+2023-12-11 19:27:10.855 +0530	Exception	basic-UI/launchBrowser	No Image Found On Screen: "basic-UI/launchBrowser"	2	on_launchbrowser	dashboardPage.script
+2023-12-11 19:27:10.963 +0530	EndTestCase		(Duration:"13.418", Errors:"1", Exceptions:"1", StartTime:"2023-12-11 19:26:57 +0530", Successes:"0", TestCase:"signUp.script", Warnings:"0")
+2023-12-11 19:27:10.983 +0530	ABORTED		Execution Time 0:00:13 signUp.script

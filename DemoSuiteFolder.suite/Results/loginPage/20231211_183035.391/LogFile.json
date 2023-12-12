@@ -1,0 +1,114 @@
+{
+	"entries": [
+		{
+				"message": "Running loginPage.script",
+				"identifier": "START",
+				"timestamp": "2023-12-11 18:30:35.402 +0530"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:35.600 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (35, 197)",
+				"image": "basic-UI/launchBrowser",
+				"handlerLine": 11,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:36.919 +0530",
+				"message": "https://rahulshettyacademy.com/practice-project",
+				"scriptName": "loginPage.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:39.942 +0530",
+				"message": "[return]",
+				"scriptName": "loginPage.script",
+				"handlerLine": 14,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:49.037 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (908, 198)",
+				"image": "Login/loginButton",
+				"handlerLine": 27,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:51.744 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (517, 359)",
+				"image": "Login/emailField",
+				"handlerLine": 28,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:52.766 +0530",
+				"message": "divyankgupta143@gmail.com",
+				"scriptName": "loginPage.script",
+				"handlerLine": 29,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:53.576 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (392, 447)",
+				"image": "Login/passwordInputField",
+				"handlerLine": 40,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:54.437 +0530",
+				"message": "Divy@nkg6784",
+				"scriptName": "loginPage.script",
+				"handlerLine": 41,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:55.365 +0530",
+				"scriptName": "loginPage.script",
+				"message": "at (598, 580)",
+				"image": "Login/loginButtonClick",
+				"handlerLine": 42,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:56.066 +0530",
+				"message": "moved 1",
+				"scriptName": "loginPage.script",
+				"handlerLine": 43,
+				"identifier": "scrollwheeldown"
+			},
+		{
+				"handlerName": "on_loginpage",
+				"timestamp": "2023-12-11 18:30:56.070 +0530",
+				"message": "Too Few Parameters, please use waitfor time, image1[, imageX]",
+				"scriptName": "loginPage.script",
+				"handlerLine": 44,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"20.681\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-11 18:30:35 +0530\", Successes:\"0\", TestCase:\"loginPage.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-11 18:30:56.088 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Error Running Script Command: waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:20 loginPage.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-11 18:30:56.260 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-11 18:30:35.406 +0530"
+}

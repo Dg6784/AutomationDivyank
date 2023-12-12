@@ -1,0 +1,10 @@
+﻿2023-12-11 17:37:34.376 +0530	START		Running loginPage.script
+2023-12-11 17:37:34.591 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	11	on_loginpage	loginPage.script
+2023-12-11 17:37:35.945 +0530	typetext		https://rahulshettyacademy.com/practice-project	12	on_loginpage	loginPage.script
+2023-12-11 17:37:38.975 +0530	typetext		[return]	14	on_loginpage	loginPage.script
+2023-12-11 17:37:43.962 +0530	click	Login/loginButton	at (908, 198)	25	on_loginpage	loginPage.script
+2023-12-11 17:37:48.705 +0530	click	Login/emailField	at (517, 359)	26	on_loginpage	loginPage.script
+2023-12-11 17:37:49.739 +0530	typetext		divyankgupta143@gmail.com	27	on_loginpage	loginPage.script
+2023-12-11 17:38:20.788 +0530	Exception	Login/passwordField	No Image Found On Screen: "Login/passwordField"	32	on_loginpage	loginPage.script
+2023-12-11 17:38:20.828 +0530	EndTestCase		(Duration:"46.443", Errors:"1", Exceptions:"1", StartTime:"2023-12-11 17:37:34 +0530", Successes:"0", TestCase:"loginPage.script", Warnings:"0")
+2023-12-11 17:38:21.087 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Login/passwordField" -- Execution Time 0:00:46 loginPage.script

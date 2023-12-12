@@ -1,0 +1,12 @@
+﻿2023-12-11 22:37:18.154 +0530	START		Running handlerCaller.script
+2023-12-11 22:37:18.375 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	2	on_launchbrowser	dashboardPage.script
+2023-12-11 22:37:19.685 +0530	typetext		https://rahulshettyacademy.com/practice-project	3	on_launchbrowser	dashboardPage.script
+2023-12-11 22:37:22.710 +0530	typetext		[return]	5	on_launchbrowser	dashboardPage.script
+2023-12-11 22:37:25.820 +0530	click	signUp/yourNameInputField	at (610, 421)	2	on_joinnowtopractice	signUp.script
+2023-12-11 22:37:26.691 +0530	typetext		Divyank gupta	3	on_joinnowtopractice	signUp.script
+2023-12-11 22:37:29.800 +0530	click	signUp/emailInput1	at (599, 477)	5	on_joinnowtopractice	signUp.script
+2023-12-11 22:37:30.822 +0530	typetext		divyankgupta143@gmail.com	6	on_joinnowtopractice	signUp.script
+2023-12-11 22:37:31.625 +0530	click	Login/emptyImageClick	at (88, 197)	7	on_joinnowtopractice	signUp.script
+2023-12-11 22:37:32.422 +0530	click	Login/submitClick	at (572, 575)	8	on_joinnowtopractice	signUp.script
+2023-12-11 22:37:32.449 +0530	EndTestCase		(Duration:"14.288", Errors:"0", Exceptions:"0", StartTime:"2023-12-11 22:37:18 +0530", Successes:"1", TestCase:"handlerCaller.script", Warnings:"0")
+2023-12-11 22:37:32.523 +0530	SUCCESS		Execution Time 0:00:14 handlerCaller.script
