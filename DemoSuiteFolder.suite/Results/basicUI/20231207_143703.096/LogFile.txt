@@ -1,5 +1,0 @@
-﻿2023-12-07 14:37:03.108 +0530	START		Running basic_UI.script
-2023-12-07 14:37:03.361 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	1	on_basic_ui	basic_UI.script
-2023-12-07 14:37:04.723 +0530	click	basic-UI/search_Field.png	at (341, 108)	2	on_basic_ui	basic_UI.script
-2023-12-07 14:37:04.752 +0530	EndTestCase		(Duration:"1.638", Errors:"0", Exceptions:"0", StartTime:"2023-12-07 14:37:03 +0530", Successes:"1", TestCase:"basic_UI.script", Warnings:"0")
-2023-12-07 14:37:04.846 +0530	SUCCESS		Execution Time 0:00:01 basic_UI.script

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		469,
+		261,
+		46,
+		23
+	],
+	"lastmodifieddate": 1702483815.859,
+	"createddate": 1702483815.859,
+	"name": "Login/emailInputFieldNew!!",
+	"lastfounddate": 1702484437.427,
+	"ocrcapturestring": "Email",
+	"lastfoundlocation": [
+		469,
+		341,
+		46,
+		23
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[44,42]",
+					"Tolerance": "_42",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/emailInputFieldNew!!.png",
+				"connectionname": "192.168.1.19",
+				"type": 1,
+				"connectionserverid": "192.168.1.19",
+				"capturerect": [
+					469,
+					261,
+					46,
+					23
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Email"
+			}
+	]
+}

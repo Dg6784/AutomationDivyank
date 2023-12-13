@@ -1,6 +1,0 @@
-﻿2023-12-08 17:32:10.712 +0530	START		Running basicUI.script
-2023-12-08 17:32:11.059 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	1	on_basicui	basicUI.script
-2023-12-08 17:32:12.616 +0530	typetext		https://rahulshettyacademy.com/practice-project	3	on_basicui	basicUI.script
-2023-12-08 17:32:15.640 +0530	typetext		[return]	5	on_basicui	basicUI.script
-2023-12-08 17:33:47.377 +0530	EndTestCase		(Duration:"96.653", Errors:"1", Exceptions:"0", StartTime:"2023-12-08 17:32:10 +0530", Successes:"0", TestCase:"basicUI.script", Warnings:"0")
-2023-12-08 17:33:47.400 +0530	ABORTED		Execution Time 0:01:36 basicUI.script

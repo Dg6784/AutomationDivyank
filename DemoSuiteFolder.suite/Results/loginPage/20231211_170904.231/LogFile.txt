@@ -1,4 +1,0 @@
-﻿2023-12-11 17:09:04.243 +0530	START		Running loginPage.script
-2023-12-11 17:09:20.176 +0530	Exception	basic-UI/launchBrowser	No Image Found On Screen: "basic-UI/launchBrowser"	11	on_loginpage	loginPage.script
-2023-12-11 17:09:20.309 +0530	EndTestCase		(Duration:"16.057", Errors:"1", Exceptions:"1", StartTime:"2023-12-11 17:09:04 +0530", Successes:"0", TestCase:"loginPage.script", Warnings:"0")
-2023-12-11 17:09:20.332 +0530	ABORTED		Execution Time 0:00:16 loginPage.script

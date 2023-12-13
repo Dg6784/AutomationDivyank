@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1702452797.1389999,
+	"ocrcapturestring": "Request OTP",
+	"originalcapturelocation": [
+		587,
+		387,
+		258,
+		73
+	],
+	"createddate": 1702452797.1389999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_30",
+					"HotSpot": "[129,36]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Adaptive to Image"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "flipkartImages/RequestOTP.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.118",
+				"capturerect": [
+					587,
+					387,
+					258,
+					73
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Request OTP"
+			}
+	],
+	"name": "flipkartImages/RequestOTP"
+}

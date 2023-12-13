@@ -1,0 +1,36 @@
+﻿// This will open joinnowpractice page
+to joinNowToPractice
+	Click imageName:"signUp/yourNameInputField", waitFor:3
+	TypeText "Divyank gupta"
+	wait 3
+	Click imageName:"signUp/emailInput1", waitFor:3
+	TypeText "divyankgupta143@gmail.com"
+	Click imageName:"Login/emptyImageClick", waitFor:3
+	Click imageName:"Login/submitClick", waitFor:3
+end joinNowToPractice
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+// This will use to register user
+To registerUser
+	Click imageName:"Login/registerButtonNewSmall", waitFor:8
+	Click imageName:"signUp/signUpWitheMail", waitFor:8
+	Click imageName:"signUp/fullNameInputField", waitFor:8
+	TypeText "Divyank"
+	TypeText tabKey
+	Click imageName:"signUp/emailInputField", waitFor:8
+	TypeText "thatsdg63@gmail.com"
+	TypeText tabKey
+	Click imageName:"signUp/passwordoInputField", waitFor:8
+	TypeText "Divy@nkg6784"
+	Click imageName:"signUp/signUp", waitFor:3
+	
+End registerUser
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		744,
+		592,
+		86,
+		25
+	],
+	"lastmodifieddate": 1702458944.431,
+	"createddate": 1702458944.431,
+	"name": "serviceDropdownOption",
+	"lastfounddate": 1702460521.4070001,
+	"ocrcapturestring": "SERVICES",
+	"lastfoundlocation": [
+		751,
+		377,
+		86,
+		25
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[39,13]",
+					"Tolerance": "_64",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "serviceDropdownOption.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.118",
+				"capturerect": [
+					744,
+					592,
+					86,
+					25
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "SERVICES"
+			}
+	]
+}

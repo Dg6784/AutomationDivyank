@@ -1,5 +1,0 @@
-﻿2023-12-08 18:58:26.730 +0530	START		Running loginPage.script
-2023-12-08 18:58:26.941 +0530	click	Login/loginButton	at (881, 171)	12	on_loginpage	loginPage.script
-2023-12-08 18:58:50.961 +0530	Exception	Login/emailField	No Image Found On Screen: "Login/emailField"	13	on_loginpage	loginPage.script
-2023-12-08 18:58:50.996 +0530	EndTestCase		(Duration:"24.259", Errors:"1", Exceptions:"1", StartTime:"2023-12-08 18:58:26 +0530", Successes:"0", TestCase:"loginPage.script", Warnings:"0")
-2023-12-08 18:58:51.169 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Login/emailField" -- Execution Time 0:00:24 loginPage.script

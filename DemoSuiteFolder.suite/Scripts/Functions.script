@@ -1,0 +1,6 @@
+﻿DoubleClick "basic-UI/launchBrowser"
+Click imageName:"flipkartImages/searchFieldNew1", waitFor:10
+TypeText "hello world program"
+TypeText return
+Click text:"Hello,_world! program"
+put FoundImageInfo()

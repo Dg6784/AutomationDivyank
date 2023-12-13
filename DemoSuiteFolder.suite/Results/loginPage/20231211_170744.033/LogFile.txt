@@ -1,9 +1,0 @@
-﻿2023-12-11 17:07:44.048 +0530	START		Running loginPage.script
-2023-12-11 17:07:44.296 +0530	doubleclick	basic-UI/launchBrowser	at (35, 197)	11	on_loginpage	loginPage.script
-2023-12-11 17:07:45.608 +0530	typetext		https://rahulshettyacademy.com/practice-project	12	on_loginpage	loginPage.script
-2023-12-11 17:07:48.636 +0530	typetext		[return]	14	on_loginpage	loginPage.script
-2023-12-11 17:07:51.557 +0530	click	basic-UI/home_textImage	at (306, 237)	15	on_loginpage	loginPage.script
-2023-12-11 17:07:52.356 +0530	click	Login/loginButton	at (888, 180)	17	on_loginpage	loginPage.script
-2023-12-11 17:08:23.296 +0530	Exception	Login/emailField	No Image Found On Screen: "Login/emailField"	18	on_loginpage	loginPage.script
-2023-12-11 17:08:23.333 +0530	EndTestCase		(Duration:"39.277", Errors:"1", Exceptions:"1", StartTime:"2023-12-11 17:07:44 +0530", Successes:"0", TestCase:"loginPage.script", Warnings:"0")
-2023-12-11 17:08:23.582 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Login/emailField" -- Execution Time 0:00:39 loginPage.script

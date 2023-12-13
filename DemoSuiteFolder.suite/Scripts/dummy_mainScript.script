@@ -1,0 +1,22 @@
+﻿//This will run Script ------------------------------------------------------
+dummy_homePage.LaunchBrowser
+dummy_signUpPage.registerUser
+dummy_loginPage.loginPage
+dummy_homePage.fillContactForm
+loopsPractice.repeatUntillImageFound
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		164,
+		87,
+		497,
+		20
+	],
+	"lastmodifieddate": 1702472631.54,
+	"createddate": 1702472631.54,
+	"name": "Qhttpsssoteachablecomsecure952",
+	"lastfounddate": 1702472634.4650002,
+	"ocrcapturestring": "Q https://sso.teachable.com/secure/9521/identity/sign_up/routing",
+	"lastfoundlocation": [
+		164,
+		87,
+		497,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[302,9]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Qhttpsssoteachablecomsecure952.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.118",
+				"capturerect": [
+					164,
+					87,
+					497,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Q https://sso.teachable.com/secure/9521/identity/sign_up/routing"
+			}
+	]
+}

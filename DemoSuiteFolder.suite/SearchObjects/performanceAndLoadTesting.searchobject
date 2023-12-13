@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		767,
+		541,
+		165,
+		45
+	],
+	"lastmodifieddate": 1702460494.677,
+	"createddate": 1702460494.677,
+	"name": "performanceAndLoadTesting",
+	"lastfounddate": 1702470386.27,
+	"ocrcapturestring": "Performance And Load Testing",
+	"lastfoundlocation": [
+		767,
+		339,
+		165,
+		45
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[77,11]",
+					"Tolerance": "_64",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "performanceAndLoadTesting.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.118",
+				"capturerect": [
+					767,
+					541,
+					165,
+					45
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Performance And Load Testing"
+			}
+	]
+}

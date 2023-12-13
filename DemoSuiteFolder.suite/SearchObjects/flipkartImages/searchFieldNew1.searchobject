@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		130,
+		92,
+		406,
+		35
+	],
+	"lastmodifieddate": 1702452739.8930001,
+	"createddate": 1702452739.8930001,
+	"name": "flipkartImages/searchFieldNew1",
+	"lastfounddate": 1702470323.5739999,
+	"ocrcapturestring": "(3",
+	"lastfoundlocation": [
+		123,
+		83,
+		406,
+		35
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[445,13]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "flipkartImages/searchFieldNew1.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.118",
+				"capturerect": [
+					130,
+					92,
+					406,
+					35
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "(3"
+			}
+	]
+}

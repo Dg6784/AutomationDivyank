@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1052,
+		171,
+		87,
+		33
+	],
+	"lastmodifieddate": 1702481799.223,
+	"createddate": 1702481799.223,
+	"name": "Login/profileTextIconImages",
+	"lastfounddate": 1702484780.576,
+	"ocrcapturestring": "Divyank v",
+	"lastfoundlocation": [
+		1052,
+		171,
+		87,
+		33
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[-24,11]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/profileTextIconImages.png",
+				"connectionname": "192.168.1.19",
+				"type": 1,
+				"connectionserverid": "192.168.1.19",
+				"capturerect": [
+					1052,
+					171,
+					87,
+					33
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Divyank v"
+			}
+	]
+}

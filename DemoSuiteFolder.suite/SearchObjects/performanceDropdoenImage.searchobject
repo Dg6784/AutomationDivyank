@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		771,
+		638,
+		164,
+		45
+	],
+	"lastmodifieddate": 1702459509.135,
+	"createddate": 1702459509.135,
+	"name": "performanceDropdoenImage",
+	"lastfounddate": 1702459510.6430001,
+	"ocrcapturestring": "Performance And Load trMfgWindows X _\t_ XX. _ — X —\t— .xZ. . — X . I",
+	"lastfoundlocation": [
+		771,
+		638,
+		164,
+		45
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[147,28]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "performanceDropdoenImage.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.118",
+				"capturerect": [
+					771,
+					638,
+					164,
+					45
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Performance And Load trMfgWindows X _\t_ XX. _ — X —\t— .xZ. . — X . I"
+			}
+	]
+}

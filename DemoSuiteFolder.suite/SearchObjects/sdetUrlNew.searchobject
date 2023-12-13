@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		229,
+		324,
+		474,
+		32
+	],
+	"lastmodifieddate": 1702458434.7480001,
+	"createddate": 1702458434.7480001,
+	"name": "sdetUrlNew",
+	"lastfounddate": 1702470326.6160002,
+	"ocrcapturestring": "Testing Company | Al Enabled Solutions | SDETTech",
+	"lastfoundlocation": [
+		229,
+		324,
+		474,
+		32
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[149,17]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "sdetUrlNew.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.118",
+				"capturerect": [
+					229,
+					324,
+					474,
+					32
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Testing Company | Al Enabled Solutions | SDETTech"
+			}
+	]
+}

@@ -1,3 +1,0 @@
-﻿2023-12-11 16:50:03.278 +0530	START		Running dashboardPage.script
-2023-12-11 16:50:03.285 +0530	EndTestCase		(Duration:"0.001", Errors:"0", Exceptions:"0", StartTime:"2023-12-11 16:50:03 +0530", Successes:"1", TestCase:"dashboardPage.script", Warnings:"0")
-2023-12-11 16:50:03.443 +0530	SUCCESS		Execution Time 0:00:00 dashboardPage.script

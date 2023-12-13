@@ -1,0 +1,64 @@
+﻿
+
+//This will Login page
+to loginPage
+	(*
+	click imageName:"Login/loginButton", waitFor:20
+	*)
+	Click imageName:"Login/Login",waitFor:20
+	Click imageName:"Login/loginEmailInputField!", waitFor:15
+	TypeText "thatsdg63@gmail.com"
+	Click imageName:"Login/passwordInputField", waitFor:15
+	TypeText "Divy@nkg6784"
+	Click imageName:"Login/loginButtonNewSmall", waitFor:20
+	TypeText windowsKey ,upArrow
+	Click imageName:"Login/profileTextIconImages", waitFor:20
+	set SearchRectangle to [989,153,1261,461]
+	Click imageName:"Login/logOutButton", waitFor:6
+	
+end loginPage
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+//This will login with Google
+to loginWithGoogle
+	ScrollWheelDown 1
+	wait 5
+	Click imageName:"Login/loginWithGoogleSmall", waitFor:5
+	Click imageName:"Login/emailInput", waitFor:5
+	TypeText "divyankgupta143@gmail.com"
+	wait 5
+	Click imageName:"Login/nextButtonAfterEnterEmail", waitFor:3
+	Click imageName:"Login/enteryourpasswordShowpassword", waitFor:3
+	TypeText "Divy@nkg6784"
+	wait 5
+	Click imageName:"Login/checkboxShowpassword", waitFor:3
+	Click imageName:"Login/nextButtonLogin", waitFor:3
+	If ImageFound(imageName:"Login/divvyankTextBlack", waitFor:3) then
+		Log "Successfully login"
+		
+	Else
+		log "Failed account verification"
+	End if
+	
+	
+	
+	
+	
+end loginWithGoogle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,7 +1,0 @@
-﻿2023-12-08 23:55:05.524 +0530	START		Running loginPage.script
-2023-12-08 23:55:05.776 +0530	click	Login/loginButton	at (879, 171)	12	on_loginpage	loginPage.script
-2023-12-08 23:55:08.897 +0530	click	Login/emailField	at (488, 330)	13	on_loginpage	loginPage.script
-2023-12-08 23:55:09.924 +0530	typetext		divyankgupta143@gmail.com	14	on_loginpage	loginPage.script
-2023-12-08 23:55:34.338 +0530	Exception	Login/passwordField	No Image Found On Screen: "Login/passwordField"	19	on_loginpage	loginPage.script
-2023-12-08 23:55:34.430 +0530	EndTestCase		(Duration:"28.901", Errors:"1", Exceptions:"1", StartTime:"2023-12-08 23:55:05 +0530", Successes:"0", TestCase:"loginPage.script", Warnings:"0")
-2023-12-08 23:55:34.445 +0530	ABORTED		Execution Time 0:00:28 loginPage.script

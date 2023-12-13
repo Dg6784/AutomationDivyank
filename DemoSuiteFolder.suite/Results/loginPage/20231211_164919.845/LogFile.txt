@@ -1,4 +1,0 @@
-﻿2023-12-11 16:49:19.856 +0530	START		Running loginPage.script
-2023-12-11 16:49:50.507 +0530	Exception	Login/loginButton	No Image Found On Screen: "Login/loginButton"	12	on_loginpage	loginPage.script
-2023-12-11 16:49:50.587 +0530	EndTestCase		(Duration:"30.719", Errors:"1", Exceptions:"1", StartTime:"2023-12-11 16:49:19 +0530", Successes:"0", TestCase:"loginPage.script", Warnings:"0")
-2023-12-11 16:49:50.834 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Login/loginButton" -- Execution Time 0:00:30 loginPage.script

@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1702458850.1069999,
+	"lastfoundlocation": [
+		941,
+		167,
+		70,
+		67
+	],
+	"originalcapturelocation": [
+		941,
+		167,
+		70,
+		67
+	],
+	"createddate": 1702458850.1069999,
+	"lastfounddate": 1702460973.266,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[35,33]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "sdetDropdownClick.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"capturerect": [
+					941,
+					167,
+					70,
+					67
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.118"
+			}
+	],
+	"name": "sdetDropdownClick"
+}
