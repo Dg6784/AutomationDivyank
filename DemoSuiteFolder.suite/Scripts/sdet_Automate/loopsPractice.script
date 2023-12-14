@@ -1,0 +1,62 @@
+﻿//loops practice
+
+
+//This will repeat untill image is found 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+to repeatUntillImageFound
+	DoubleClick "flipkartImages/Edge" 
+	Click imageName:"flipkartImages/searchFieldNew1", waitFor:10
+	TypeText "sdet technologies"
+	TypeText return
+	Click imageName:"sdetImages/sdetUrlNew", waitFor:10
+	Repeat until ImageFound(ImageName:"flipkartImages/Sdet_Image", waitfor:5) 
+		TypeText PageDown 
+		If ImageFound(imageName:"flipkartImages/Sdet_Image", waitFor:3) then 
+			log "success"
+		end if
+	end repeat
+end repeatUntillImageFound
+
+
+
+
+//This will repeat untill Appropriate dropdown found ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+to repeatUntillDropdownFound
+	set SearchRectangle to [747,163,1024,715]
+	Click imageName:"sdetImages/sdetDropdownClickNew", waitFor:5
+	Click imageName:"sdetImages/serviceDropdownOptionNew", waitFor:5
+	
+	Repeat until ImageFound(imageName:"sdetImages/performanceAndLoadTesting", waitFor:5)
+		TypeText PageDown 
+		If ImageFound(imageName:"sdetImages/performanceAndLoadTesting", waitFor:3) then
+			Click imageName:"sdetImages/performanceAndLoadTesting", waitFor:3
+			
+		Else
+			
+			Log "Error"
+		End if	
+	End repeat
+end repeatUntillDropdownFound
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(747,163,1024,715)

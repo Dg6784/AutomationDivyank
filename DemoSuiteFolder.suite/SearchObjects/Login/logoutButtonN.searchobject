@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		181,
+		559,
+		70,
+		29
+	],
+	"lastmodifieddate": 1702549713.9619999,
+	"createddate": 1702549713.9619999,
+	"name": "Login/logoutButtonN",
+	"lastfounddate": 1702573716.276,
+	"ocrcapturestring": "Log Out",
+	"lastfoundlocation": [
+		1018,
+		403,
+		70,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[23,11]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/logoutButtonN.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					181,
+					559,
+					70,
+					29
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Log Out"
+			}
+	]
+}

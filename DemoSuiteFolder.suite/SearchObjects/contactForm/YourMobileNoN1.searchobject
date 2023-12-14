@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		559,
+		255,
+		125,
+		25
+	],
+	"lastmodifieddate": 1702556848.069,
+	"createddate": 1702556848.069,
+	"name": "contactForm/YourMobileNoN1",
+	"lastfounddate": 1702558284.941,
+	"ocrcapturestring": "Your Mobile No.*",
+	"lastfoundlocation": [
+		559,
+		238,
+		125,
+		25
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[135,15]",
+					"Tolerance": "_38",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "contactForm/YourMobileNoN1.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					559,
+					255,
+					125,
+					25
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Your Mobile No.*"
+			}
+	]
+}

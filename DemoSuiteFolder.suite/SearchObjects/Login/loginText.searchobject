@@ -1,22 +1,30 @@
 {
-	"lastmodifieddate": 1702296827.6599998,
-	"ocrcapturestring": "Log in",
 	"originalcapturelocation": [
 		509,
 		255,
 		97,
 		48
 	],
+	"lastmodifieddate": 1702296827.6599998,
 	"createddate": 1702296827.6599998,
+	"name": "Login/loginText",
+	"lastfounddate": 1702531734.2059999,
+	"ocrcapturestring": "Log in",
+	"lastfoundlocation": [
+		482,
+		226,
+		97,
+		48
+	],
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
-					"Tolerance": "_64",
-					"HotSpot": "[48,24]",
 					"Scale": "    1",
+					"HotSpot": "[48,24]",
+					"Tolerance": "_64",
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
 				},
@@ -36,6 +44,5 @@
 				"connectiontype": "RDP",
 				"capturedocrtext": "Log in"
 			}
-	],
-	"name": "Login/loginText"
+	]
 }

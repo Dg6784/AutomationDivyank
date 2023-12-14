@@ -5,14 +5,14 @@
 		245,
 		41
 	],
-	"lastmodifieddate": 1702460780.7259998,
+	"lastmodifieddate": 1702560392.5869999,
 	"createddate": 1702460780.7259998,
 	"name": "serviceDropdownOptionNew",
-	"lastfounddate": 1702470380.2509999,
+	"lastfounddate": 1702560702.382,
 	"ocrcapturestring": "SERVICES",
 	"lastfoundlocation": [
-		744,
-		585,
+		737,
+		578,
 		245,
 		41
 	],
@@ -31,7 +31,7 @@
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "serviceDropdownOptionNew.png",
+				"name": "sdetImages/serviceDropdownOptionNew.png",
 				"connectionname": "192.168.0.96",
 				"type": 1,
 				"connectionserverid": "192.168.0.118",

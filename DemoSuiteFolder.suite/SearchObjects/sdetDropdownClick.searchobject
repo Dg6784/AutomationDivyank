@@ -1,5 +1,5 @@
 {
-	"lastmodifieddate": 1702458850.1069999,
+	"lastmodifieddate": 1702560379.9089999,
 	"lastfoundlocation": [
 		941,
 		167,
@@ -29,7 +29,7 @@
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "sdetDropdownClick.png",
+				"name": "sdetImages/sdetDropdownClick.png",
 				"connectionname": "192.168.0.96",
 				"type": 1,
 				"capturerect": [

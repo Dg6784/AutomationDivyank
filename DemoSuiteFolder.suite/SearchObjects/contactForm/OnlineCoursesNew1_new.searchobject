@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		86,
+		443,
+		121,
+		22
+	],
+	"lastmodifieddate": 1702557440.075,
+	"createddate": 1702557440.075,
+	"name": "contactForm/OnlineCoursesNew1_new",
+	"lastfounddate": 1702558292.1129999,
+	"ocrcapturestring": "Online Courses",
+	"lastfoundlocation": [
+		86,
+		426,
+		121,
+		22
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[60,11]",
+					"Tolerance": "_64",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "contactForm/OnlineCoursesNew1_new.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					86,
+					443,
+					121,
+					22
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Online Courses"
+			}
+	]
+}

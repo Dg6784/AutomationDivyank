@@ -5,14 +5,14 @@
 		474,
 		32
 	],
-	"lastmodifieddate": 1702458434.7480001,
+	"lastmodifieddate": 1702560384.8049998,
 	"createddate": 1702458434.7480001,
 	"name": "sdetUrlNew",
-	"lastfounddate": 1702470326.6160002,
+	"lastfounddate": 1702560630.362,
 	"ocrcapturestring": "Testing Company | Al Enabled Solutions | SDETTech",
 	"lastfoundlocation": [
-		229,
-		324,
+		222,
+		317,
 		474,
 		32
 	],
@@ -31,7 +31,7 @@
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "sdetUrlNew.png",
+				"name": "sdetImages/sdetUrlNew.png",
 				"connectionname": "192.168.0.96",
 				"type": 1,
 				"connectionserverid": "192.168.0.118",

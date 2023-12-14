@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		154,
+		586,
+		60,
+		27
+	],
+	"lastmodifieddate": 1702555007.5999999,
+	"createddate": 1702555007.5999999,
+	"name": "contactForm/contactDropdownN",
+	"lastfounddate": 1702558341.516,
+	"ocrcapturestring": "Contact",
+	"lastfoundlocation": [
+		154,
+		586,
+		60,
+		27
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[30,29]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "contactForm/contactDropdownN.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					154,
+					586,
+					60,
+					27
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Contact"
+			}
+	]
+}

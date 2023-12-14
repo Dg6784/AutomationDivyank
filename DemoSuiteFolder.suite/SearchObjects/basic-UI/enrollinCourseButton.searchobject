@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		414,
+		518,
+		184,
+		29
+	],
+	"lastmodifieddate": 1702561348.8969998,
+	"createddate": 1702561348.8969998,
+	"name": "basic-UI/enrollinCourseButton",
+	"lastfounddate": 1702562629.6170001,
+	"ocrcapturestring": "R Enroll in Course",
+	"lastfoundlocation": [
+		414,
+		313,
+		184,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[16,13]",
+					"Tolerance": "_71",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "basic-UI/enrollinCourseButton.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					414,
+					518,
+					184,
+					29
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "R Enroll in Course"
+			}
+	]
+}

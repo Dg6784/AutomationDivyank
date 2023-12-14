@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1702561274.51,
+	"ocrcapturestring": "I / \\ 1 0 e \\ / Angular Fundamentals from Scratch & Unit/lntegration... Get into Web Development with solid understanding of Angular Basics and... ♦LRahul Shettv Rahul Shetty $19",
+	"originalcapturelocation": [
+		23,
+		249,
+		319,
+		404
+	],
+	"createddate": 1702561274.51,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_73",
+					"HotSpot": "[155,101]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "basic-UI/angularCourseImage.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					23,
+					249,
+					319,
+					404
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "I / \\ 1 0 e \\ / Angular Fundamentals from Scratch & Unit/lntegration... Get into Web Development with solid understanding of Angular Basics and... ♦LRahul Shettv Rahul Shetty $19"
+			}
+	],
+	"name": "basic-UI/angularCourseImage"
+}

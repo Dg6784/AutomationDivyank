@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		74,
+		470,
+		118,
+		25
+	],
+	"lastmodifieddate": 1702557611.6100001,
+	"createddate": 1702557611.6100001,
+	"name": "contactForm/YourMessageNew1",
+	"lastfounddate": 1702558292.914,
+	"ocrcapturestring": "Your Message*",
+	"lastfoundlocation": [
+		74,
+		453,
+		118,
+		25
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[126,11]",
+					"Tolerance": "_38",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "contactForm/YourMessageNew1.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					74,
+					470,
+					118,
+					25
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Your Message*"
+			}
+	]
+}

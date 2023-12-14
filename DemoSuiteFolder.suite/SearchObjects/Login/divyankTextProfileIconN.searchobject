@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		213,
+		344,
+		70,
+		35
+	],
+	"lastmodifieddate": 1702549651.3109999,
+	"createddate": 1702549651.3109999,
+	"name": "Login/divyankTextProfileIconN",
+	"lastfounddate": 1702573715.3990002,
+	"ocrcapturestring": "Divyank",
+	"lastfoundlocation": [
+		1051,
+		171,
+		70,
+		35
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[-23,13]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/divyankTextProfileIconN.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					213,
+					344,
+					70,
+					35
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Divyank"
+			}
+	]
+}

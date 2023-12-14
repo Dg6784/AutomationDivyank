@@ -1,0 +1,24 @@
+﻿//This will run Script ------------------------------------------------------
+"dummy_WebsiteAutomate/dummy_homePage".LaunchBrowser
+"dummy_WebsiteAutomate/dummy_signUpPage".registerUser
+"dummy_WebsiteAutomate/dummy_loginPage".loginPage
+"dummy_WebsiteAutomate/dummy_homePage".fillContactForm
+"sdet_Automate/loopsPractice".repeatUntillImageFound
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

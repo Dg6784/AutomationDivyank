@@ -1,8 +1,8 @@
 {
-	"lastmodifieddate": 1701939481.1659999,
+	"lastmodifieddate": 1702545123.164,
 	"lastfoundlocation": [
-		3,
-		162,
+		4,
+		158,
 		64,
 		70
 	],
@@ -13,7 +13,7 @@
 		70
 	],
 	"createddate": 1701939148.428,
-	"lastfounddate": 1702482651.474,
+	"lastfounddate": 1702545202.332,
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
@@ -40,6 +40,32 @@
 				],
 				"connectiontype": "RDP",
 				"connectionserverid": "192.168.29.13"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[32,35]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "basic-UI/launchBrowser.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"capturerect": [
+					3,
+					162,
+					64,
+					70
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.131"
 			}
 	],
 	"name": "launchBrowser"

@@ -8,11 +8,11 @@
 	"lastmodifieddate": 1702482035.753,
 	"createddate": 1702482035.753,
 	"name": "Login/logOutButton",
-	"lastfounddate": 1702484781.3839998,
+	"lastfounddate": 1702549714.553,
 	"ocrcapturestring": "Log Out",
 	"lastfoundlocation": [
-		1021,
-		407,
+		183,
+		563,
 		75,
 		35
 	],

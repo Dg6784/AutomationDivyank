@@ -5,7 +5,7 @@
 		164,
 		45
 	],
-	"lastmodifieddate": 1702459509.135,
+	"lastmodifieddate": 1702560376.2519999,
 	"createddate": 1702459509.135,
 	"name": "performanceDropdoenImage",
 	"lastfounddate": 1702459510.6430001,
@@ -31,7 +31,7 @@
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "performanceDropdoenImage.png",
+				"name": "sdetImages/performanceDropdoenImage.png",
 				"connectionname": "192.168.0.96",
 				"type": 1,
 				"connectionserverid": "192.168.0.118",

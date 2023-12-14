@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		82,
+		400,
+		127,
+		32
+	],
+	"lastmodifieddate": 1702557275.375,
+	"createddate": 1702557275.375,
+	"name": "contactForm/SelectaSubjectNew1",
+	"lastfounddate": 1702558291.316,
+	"ocrcapturestring": "Select a Subject",
+	"lastfoundlocation": [
+		82,
+		383,
+		127,
+		32
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[137,16]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "contactForm/SelectaSubjectNew1.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					82,
+					400,
+					127,
+					32
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Select a Subject"
+			}
+	]
+}

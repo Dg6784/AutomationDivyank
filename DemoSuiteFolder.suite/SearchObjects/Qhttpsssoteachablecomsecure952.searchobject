@@ -5,7 +5,7 @@
 		497,
 		20
 	],
-	"lastmodifieddate": 1702472631.54,
+	"lastmodifieddate": 1702560420.7389998,
 	"createddate": 1702472631.54,
 	"name": "Qhttpsssoteachablecomsecure952",
 	"lastfounddate": 1702472634.4650002,
@@ -19,6 +19,7 @@
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
+				"deleted": true,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
@@ -31,7 +32,7 @@
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "Qhttpsssoteachablecomsecure952.png",
+				"name": "sdetImages/Qhttpsssoteachablecomsecure952.png",
 				"connectionname": "192.168.0.96",
 				"type": 1,
 				"connectionserverid": "192.168.0.118",

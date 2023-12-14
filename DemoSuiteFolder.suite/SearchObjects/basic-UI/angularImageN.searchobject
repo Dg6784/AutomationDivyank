@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		21,
+		491,
+		317,
+		233
+	],
+	"lastmodifieddate": 1702562063.1430001,
+	"createddate": 1702562063.1430001,
+	"name": "basic-UI/angularImageN",
+	"lastfounddate": 1702562623.7579999,
+	"ocrcapturestring": "o /  Angular Fundamentals from Scratch & Unit/lntegration...",
+	"lastfoundlocation": [
+		21,
+		467,
+		317,
+		233
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[23,180]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "basic-UI/angularImageN.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					21,
+					491,
+					317,
+					233
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "o /  Angular Fundamentals from Scratch & Unit/lntegration..."
+			}
+	]
+}

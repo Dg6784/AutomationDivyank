@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		943,
+		33,
+		27,
+		30
+	],
+	"lastmodifieddate": 1702552638.8870001,
+	"createddate": 1702552638.8870001,
+	"name": "Login/maximizeScreen",
+	"lastfounddate": 1702573705.497,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		957,
+		49,
+		27,
+		30
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[13,13]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/maximizeScreen.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					943,
+					33,
+					27,
+					30
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			}
+	]
+}

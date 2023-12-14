@@ -5,14 +5,14 @@
 		165,
 		45
 	],
-	"lastmodifieddate": 1702460494.677,
+	"lastmodifieddate": 1702560373.9520001,
 	"createddate": 1702460494.677,
 	"name": "performanceAndLoadTesting",
-	"lastfounddate": 1702470386.27,
+	"lastfounddate": 1702560708.3470001,
 	"ocrcapturestring": "Performance And Load Testing",
 	"lastfoundlocation": [
-		767,
-		339,
+		760,
+		332,
 		165,
 		45
 	],
@@ -31,7 +31,7 @@
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "performanceAndLoadTesting.png",
+				"name": "sdetImages/performanceAndLoadTesting.png",
 				"connectionname": "192.168.0.96",
 				"type": 1,
 				"connectionserverid": "192.168.0.118",

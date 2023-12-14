@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		129,
+		438,
+		67,
+		28
+	],
+	"lastmodifieddate": 1702554729.279,
+	"createddate": 1702554729.279,
+	"name": "contactForm/moreOptionN",
+	"lastfounddate": 1702555328.2779999,
+	"ocrcapturestring": "More v",
+	"lastfoundlocation": [
+		129,
+		438,
+		67,
+		28
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[27,17]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "contactForm/moreOptionN.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					129,
+					438,
+					67,
+					28
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "More v"
+			}
+	]
+}

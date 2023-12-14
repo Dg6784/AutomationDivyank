@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1702545201.0019999,
+	"lastfoundlocation": [
+		7,
+		160,
+		61,
+		81
+	],
+	"originalcapturelocation": [
+		8,
+		156,
+		61,
+		81
+	],
+	"createddate": 1702545201.0019999,
+	"lastfounddate": 1702573166.9219999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[30,47]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "basic-UI/microsoftEdge.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"capturerect": [
+					8,
+					156,
+					61,
+					81
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.131"
+			}
+	],
+	"name": "basic-UI/microsoftEdge"
+}

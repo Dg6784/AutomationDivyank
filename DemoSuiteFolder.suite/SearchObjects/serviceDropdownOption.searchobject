@@ -5,7 +5,7 @@
 		86,
 		25
 	],
-	"lastmodifieddate": 1702458944.431,
+	"lastmodifieddate": 1702560387.8499999,
 	"createddate": 1702458944.431,
 	"name": "serviceDropdownOption",
 	"lastfounddate": 1702460521.4070001,
@@ -31,7 +31,7 @@
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "serviceDropdownOption.png",
+				"name": "sdetImages/serviceDropdownOption.png",
 				"connectionname": "192.168.0.96",
 				"type": 1,
 				"connectionserverid": "192.168.0.118",

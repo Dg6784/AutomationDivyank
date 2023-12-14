@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		592,
+		385,
+		75,
+		46
+	],
+	"lastmodifieddate": 1702558089.3860002,
+	"createddate": 1702558089.3860002,
+	"name": "contactForm/closeButton",
+	"lastfounddate": 1702558300.8969998,
+	"ocrcapturestring": "Close",
+	"lastfoundlocation": [
+		592,
+		385,
+		75,
+		46
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[50,14]",
+					"Tolerance": "_60",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "contactForm/closeButton.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					592,
+					385,
+					75,
+					46
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Close"
+			}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		162,
+		260,
+		99,
+		22
+	],
+	"lastmodifieddate": 1702561051.155,
+	"createddate": 1702561051.155,
+	"name": "basic-UI/allCoursesOption",
+	"lastfounddate": 1702570872.079,
+	"ocrcapturestring": "All Courses",
+	"lastfoundlocation": [
+		253,
+		177,
+		99,
+		22
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[18,10]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "basic-UI/allCoursesOption.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.131",
+				"capturerect": [
+					162,
+					260,
+					99,
+					22
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "All Courses"
+			}
+	]
+}
