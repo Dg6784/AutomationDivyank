@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1702645340.4809999,
+	"ocrcapturestring": "Get into Web Development with solid understanding of Angular Basics and...",
+	"originalcapturelocation": [
+		47,
+		368,
+		248,
+		47
+	],
+	"createddate": 1702645340.4809999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_47",
+					"HotSpot": "[18,-5]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "basic-UI/angularImageTtext.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.168",
+				"capturerect": [
+					47,
+					368,
+					248,
+					47
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Get into Web Development with solid understanding of Angular Basics and..."
+			}
+	],
+	"name": "basic-UI/angularImageTtext"
+}

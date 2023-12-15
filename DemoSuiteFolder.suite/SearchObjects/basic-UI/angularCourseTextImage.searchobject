@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		42,
+		470,
+		255,
+		57
+	],
+	"lastmodifieddate": 1702644551.2979999,
+	"createddate": 1702644551.2979999,
+	"name": "basic-UI/angularCourseTextImage",
+	"lastfounddate": 1702647198.829,
+	"ocrcapturestring": "Angular Fundamentals from Scratch & Unit/lntegration...",
+	"lastfoundlocation": [
+		42,
+		645,
+		255,
+		57
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[23,68]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "basic-UI/angularCourseTextImage.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.168",
+				"capturerect": [
+					42,
+					470,
+					255,
+					57
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Angular Fundamentals from Scratch & Unit/lntegration..."
+			}
+	]
+}

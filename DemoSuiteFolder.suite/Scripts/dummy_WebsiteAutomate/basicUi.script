@@ -1,13 +1,11 @@
 ﻿Click imageName:"basic-UI/allCoursesOption", waitFor:5
-Repeat until ImageFound(imageName:"basic-UI/angularImageN", waitFor:5)
-	TypeText pageDown
-	If ImageFound(imageName:"basic-UI/angularImageN", waitFor:5) then
-		Click imageName:"basic-UI/angularImageN", waitFor:5
-	
-	End If
-	
-End repeat
 
+Repeat until ImageFound(ImageName:"basic-UI/angularCourseTextImage", waitfor:5) 
+	TypeText PageDown 
+	If ImageFound(imageName:"basic-UI/angularCourseTextImage", waitFor:3) then 
+		Click "basic-UI/angularImageN"
+	end if
+end repeat
 
 Repeat until ImageFound(ImageName:"flipkartImages/Sdet_Image", waitfor:5) 
 	TypeText PageDown 
@@ -17,17 +15,22 @@ Repeat until ImageFound(ImageName:"flipkartImages/Sdet_Image", waitfor:5)
 end repeat
 
 
+Click text:"Angular Fundamentals from Screatch & Unit/Integration...", waitFor:20
 
 
-// Repeat until ImageFound(imageName:"basic-UI/enrollinCourseButton", waitFor:5)
-TypeText pageDown
-If ImageFound(imageName:"basic-UI/enrollinCourseButton.png", waitFor:5) then 
-	Click imageName:"basic-UI/enrollinCourseButton.png", waitFor:5
-	
-	Click imageName:"basic-UI/enrollinCourseButton2", waitFor:5
-	
-	
-	
-End If
 
+
+
+
+Repeat until ImageFound(imageName:"basic-UI/enrollinCourseButton", waitFor:5)
+	TypeText pageDown
+	If ImageFound(imageName:"basic-UI/enrollinCourseButton.png", waitFor:5) then 
+		Click imageName:"basic-UI/enrollinCourseButton.png", waitFor:5
+		
+		Click imageName:"basic-UI/enrollinCourseButton2", waitFor:5
+		
+		
+		
+	End If
+	
 End repeat
